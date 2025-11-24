@@ -1,0 +1,4580 @@
+{
+    "@ahmedhfarag/ngx-perfect-scrollbar": {
+        "vuln_vers": [
+            "20.0.20"
+        ]
+    },
+    "@ahmedhfarag/ngx-virtual-scroller": {
+        "vuln_vers": [
+            "4.0.4"
+        ]
+    },
+    "@art-ws/common": {
+        "vuln_vers": [
+            "2.0.28"
+        ]
+    },
+    "@art-ws/config-eslint": {
+        "vuln_vers": [
+            "2.0.4",
+            "2.0.5"
+        ]
+    },
+    "@art-ws/config-ts": {
+        "vuln_vers": [
+            "2.0.7",
+            "2.0.8"
+        ]
+    },
+    "@art-ws/db-context": {
+        "vuln_vers": [
+            "2.0.24"
+        ]
+    },
+    "@art-ws/di": {
+        "vuln_vers": [
+            "2.0.28",
+            "2.0.32"
+        ]
+    },
+    "@art-ws/di-node": {
+        "vuln_vers": [
+            "2.0.13"
+        ]
+    },
+    "@art-ws/eslint": {
+        "vuln_vers": [
+            "1.0.5",
+            "1.0.6"
+        ]
+    },
+    "@art-ws/fastify-http-server": {
+        "vuln_vers": [
+            "2.0.24",
+            "2.0.27"
+        ]
+    },
+    "@art-ws/http-server": {
+        "vuln_vers": [
+            "2.0.21",
+            "2.0.25"
+        ]
+    },
+    "@art-ws/openapi": {
+        "vuln_vers": [
+            "0.1.12",
+            "0.1.9"
+        ]
+    },
+    "@art-ws/package-base": {
+        "vuln_vers": [
+            "1.0.5",
+            "1.0.6"
+        ]
+    },
+    "@art-ws/prettier": {
+        "vuln_vers": [
+            "1.0.5",
+            "1.0.6"
+        ]
+    },
+    "@art-ws/slf": {
+        "vuln_vers": [
+            "2.0.15",
+            "2.0.22"
+        ]
+    },
+    "@art-ws/ssl-info": {
+        "vuln_vers": [
+            "1.0.10",
+            "1.0.9"
+        ]
+    },
+    "@art-ws/web-app": {
+        "vuln_vers": [
+            "1.0.3",
+            "1.0.4"
+        ]
+    },
+    "@crowdstrike/commitlint": {
+        "vuln_vers": [
+            "8.1.1",
+            "8.1.2"
+        ]
+    },
+    "@crowdstrike/falcon-shoelace": {
+        "vuln_vers": [
+            "0.4.1",
+            "0.4.2"
+        ]
+    },
+    "@crowdstrike/foundry-js": {
+        "vuln_vers": [
+            "0.19.1",
+            "0.19.2"
+        ]
+    },
+    "@crowdstrike/glide-core": {
+        "vuln_vers": [
+            "0.34.2",
+            "0.34.3"
+        ]
+    },
+    "@crowdstrike/logscale-dashboard": {
+        "vuln_vers": [
+            "1.205.1",
+            "1.205.2"
+        ]
+    },
+    "@crowdstrike/logscale-file-editor": {
+        "vuln_vers": [
+            "1.205.1",
+            "1.205.2"
+        ]
+    },
+    "@crowdstrike/logscale-parser-edit": {
+        "vuln_vers": [
+            "1.205.1",
+            "1.205.2"
+        ]
+    },
+    "@crowdstrike/logscale-search": {
+        "vuln_vers": [
+            "1.205.1",
+            "1.205.2"
+        ]
+    },
+    "@crowdstrike/tailwind-toucan-base": {
+        "vuln_vers": [
+            "5.0.1",
+            "5.0.2"
+        ]
+    },
+    "@ctrl/deluge": {
+        "vuln_vers": [
+            "7.2.1",
+            "7.2.2"
+        ]
+    },
+    "@ctrl/golang-template": {
+        "vuln_vers": [
+            "1.4.2",
+            "1.4.3"
+        ]
+    },
+    "@ctrl/magnet-link": {
+        "vuln_vers": [
+            "4.0.3",
+            "4.0.4"
+        ]
+    },
+    "@ctrl/ngx-codemirror": {
+        "vuln_vers": [
+            "7.0.1",
+            "7.0.2"
+        ]
+    },
+    "@ctrl/ngx-csv": {
+        "vuln_vers": [
+            "6.0.1",
+            "6.0.2"
+        ]
+    },
+    "@ctrl/ngx-emoji-mart": {
+        "vuln_vers": [
+            "9.2.1",
+            "9.2.2"
+        ]
+    },
+    "@ctrl/ngx-rightclick": {
+        "vuln_vers": [
+            "4.0.1",
+            "4.0.2"
+        ]
+    },
+    "@ctrl/qbittorrent": {
+        "vuln_vers": [
+            "9.7.1",
+            "9.7.2"
+        ]
+    },
+    "@ctrl/react-adsense": {
+        "vuln_vers": [
+            "2.0.1",
+            "2.0.2"
+        ]
+    },
+    "@ctrl/shared-torrent": {
+        "vuln_vers": [
+            "6.3.1",
+            "6.3.2"
+        ]
+    },
+    "@ctrl/tinycolor": {
+        "vuln_vers": [
+            "4.1.1",
+            "4.1.2"
+        ]
+    },
+    "@ctrl/torrent-file": {
+        "vuln_vers": [
+            "4.1.1",
+            "4.1.2"
+        ]
+    },
+    "@ctrl/transmission": {
+        "vuln_vers": [
+            "7.3.1"
+        ]
+    },
+    "@ctrl/ts-base32": {
+        "vuln_vers": [
+            "4.0.1",
+            "4.0.2"
+        ]
+    },
+    "@hestjs/core": {
+        "vuln_vers": [
+            "0.2.1"
+        ]
+    },
+    "@hestjs/cqrs": {
+        "vuln_vers": [
+            "0.1.6"
+        ]
+    },
+    "@hestjs/demo": {
+        "vuln_vers": [
+            "0.1.2"
+        ]
+    },
+    "@hestjs/eslint-config": {
+        "vuln_vers": [
+            "0.1.2"
+        ]
+    },
+    "@hestjs/logger": {
+        "vuln_vers": [
+            "0.1.6"
+        ]
+    },
+    "@hestjs/scalar": {
+        "vuln_vers": [
+            "0.1.7"
+        ]
+    },
+    "@hestjs/validation": {
+        "vuln_vers": [
+            "0.1.6"
+        ]
+    },
+    "@nativescript-community/arraybuffers": {
+        "vuln_vers": [
+            "1.1.6",
+            "1.1.7",
+            "1.1.8"
+        ]
+    },
+    "@nativescript-community/gesturehandler": {
+        "vuln_vers": [
+            "2.0.35"
+        ]
+    },
+    "@nativescript-community/perms": {
+        "vuln_vers": [
+            "3.0.5",
+            "3.0.6",
+            "3.0.7",
+            "3.0.8",
+            "3.0.9"
+        ]
+    },
+    "@nativescript-community/sentry": {
+        "vuln_vers": [
+            "4.6.43"
+        ]
+    },
+    "@nativescript-community/sqlite": {
+        "vuln_vers": [
+            "3.5.2",
+            "3.5.3",
+            "3.5.4",
+            "3.5.5"
+        ]
+    },
+    "@nativescript-community/text": {
+        "vuln_vers": [
+            "1.6.10",
+            "1.6.11",
+            "1.6.12",
+            "1.6.13",
+            "1.6.9"
+        ]
+    },
+    "@nativescript-community/typeorm": {
+        "vuln_vers": [
+            "0.2.30",
+            "0.2.31",
+            "0.2.32",
+            "0.2.33"
+        ]
+    },
+    "@nativescript-community/ui-collectionview": {
+        "vuln_vers": [
+            "6.0.6"
+        ]
+    },
+    "@nativescript-community/ui-document-picker": {
+        "vuln_vers": [
+            "1.1.27",
+            "1.1.28"
+        ]
+    },
+    "@nativescript-community/ui-drawer": {
+        "vuln_vers": [
+            "0.1.30"
+        ]
+    },
+    "@nativescript-community/ui-image": {
+        "vuln_vers": [
+            "4.5.6"
+        ]
+    },
+    "@nativescript-community/ui-label": {
+        "vuln_vers": [
+            "1.3.35",
+            "1.3.36",
+            "1.3.37"
+        ]
+    },
+    "@nativescript-community/ui-material-bottom-navigation": {
+        "vuln_vers": [
+            "7.2.72",
+            "7.2.73",
+            "7.2.74",
+            "7.2.75"
+        ]
+    },
+    "@nativescript-community/ui-material-bottomsheet": {
+        "vuln_vers": [
+            "7.2.72"
+        ]
+    },
+    "@nativescript-community/ui-material-core": {
+        "vuln_vers": [
+            "7.2.72",
+            "7.2.73",
+            "7.2.74",
+            "7.2.75",
+            "7.2.76"
+        ]
+    },
+    "@nativescript-community/ui-material-core-tabs": {
+        "vuln_vers": [
+            "7.2.72",
+            "7.2.73",
+            "7.2.74",
+            "7.2.75",
+            "7.2.76"
+        ]
+    },
+    "@nativescript-community/ui-material-ripple": {
+        "vuln_vers": [
+            "7.2.72",
+            "7.2.73",
+            "7.2.74",
+            "7.2.75"
+        ]
+    },
+    "@nativescript-community/ui-material-tabs": {
+        "vuln_vers": [
+            "7.2.72",
+            "7.2.73",
+            "7.2.74",
+            "7.2.75"
+        ]
+    },
+    "@nativescript-community/ui-pager": {
+        "vuln_vers": [
+            "14.1.36",
+            "14.1.37",
+            "14.1.38"
+        ]
+    },
+    "@nativescript-community/ui-pulltorefresh": {
+        "vuln_vers": [
+            "2.5.4",
+            "2.5.5",
+            "2.5.6",
+            "2.5.7"
+        ]
+    },
+    "@nexe/config-manager": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "@nexe/eslint-config": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "@nexe/logger": {
+        "vuln_vers": [
+            "0.1.3"
+        ]
+    },
+    "@nstudio/angular": {
+        "vuln_vers": [
+            "20.0.4",
+            "20.0.5",
+            "20.0.6"
+        ]
+    },
+    "@nstudio/focus": {
+        "vuln_vers": [
+            "20.0.4",
+            "20.0.5",
+            "20.0.6"
+        ]
+    },
+    "@nstudio/nativescript-checkbox": {
+        "vuln_vers": [
+            "2.0.6",
+            "2.0.7",
+            "2.0.8",
+            "2.0.9"
+        ]
+    },
+    "@nstudio/nativescript-loading-indicator": {
+        "vuln_vers": [
+            "5.0.1",
+            "5.0.2",
+            "5.0.3",
+            "5.0.4"
+        ]
+    },
+    "@nstudio/ui-collectionview": {
+        "vuln_vers": [
+            "5.1.11",
+            "5.1.12",
+            "5.1.13",
+            "5.1.14"
+        ]
+    },
+    "@nstudio/web": {
+        "vuln_vers": [
+            "20.0.4"
+        ]
+    },
+    "@nstudio/web-angular": {
+        "vuln_vers": [
+            "20.0.4"
+        ]
+    },
+    "@nstudio/xplat": {
+        "vuln_vers": [
+            "20.0.5",
+            "20.0.6",
+            "20.0.7"
+        ]
+    },
+    "@nstudio/xplat-utils": {
+        "vuln_vers": [
+            "20.0.5",
+            "20.0.6",
+            "20.0.7"
+        ]
+    },
+    "@operato/board": {
+        "vuln_vers": [
+            "9.0.35",
+            "9.0.36",
+            "9.0.37",
+            "9.0.38",
+            "9.0.39",
+            "9.0.40",
+            "9.0.41",
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45",
+            "9.0.46",
+            "9.0.47",
+            "9.0.48",
+            "9.0.49",
+            "9.0.50",
+            "9.0.51"
+        ]
+    },
+    "@operato/data-grist": {
+        "vuln_vers": [
+            "9.0.29",
+            "9.0.35",
+            "9.0.36",
+            "9.0.37"
+        ]
+    },
+    "@operato/graphql": {
+        "vuln_vers": [
+            "9.0.22",
+            "9.0.35",
+            "9.0.36",
+            "9.0.37",
+            "9.0.38",
+            "9.0.39",
+            "9.0.40",
+            "9.0.41",
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45",
+            "9.0.46",
+            "9.0.47",
+            "9.0.48",
+            "9.0.49",
+            "9.0.50",
+            "9.0.51"
+        ]
+    },
+    "@operato/headroom": {
+        "vuln_vers": [
+            "9.0.2",
+            "9.0.35",
+            "9.0.36",
+            "9.0.37"
+        ]
+    },
+    "@operato/help": {
+        "vuln_vers": [
+            "9.0.35",
+            "9.0.36",
+            "9.0.37",
+            "9.0.38",
+            "9.0.39",
+            "9.0.40",
+            "9.0.41",
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45",
+            "9.0.46",
+            "9.0.47",
+            "9.0.48",
+            "9.0.49",
+            "9.0.50",
+            "9.0.51"
+        ]
+    },
+    "@operato/i18n": {
+        "vuln_vers": [
+            "9.0.35",
+            "9.0.36",
+            "9.0.37"
+        ]
+    },
+    "@operato/input": {
+        "vuln_vers": [
+            "9.0.27",
+            "9.0.35",
+            "9.0.36",
+            "9.0.37",
+            "9.0.38",
+            "9.0.39",
+            "9.0.40",
+            "9.0.41",
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45",
+            "9.0.46",
+            "9.0.47",
+            "9.0.48"
+        ]
+    },
+    "@operato/layout": {
+        "vuln_vers": [
+            "9.0.35",
+            "9.0.36",
+            "9.0.37"
+        ]
+    },
+    "@operato/popup": {
+        "vuln_vers": [
+            "9.0.22",
+            "9.0.35",
+            "9.0.36",
+            "9.0.37",
+            "9.0.38",
+            "9.0.39",
+            "9.0.40",
+            "9.0.41",
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45",
+            "9.0.46",
+            "9.0.47",
+            "9.0.48",
+            "9.0.49",
+            "9.0.50",
+            "9.0.51"
+        ]
+    },
+    "@operato/pull-to-refresh": {
+        "vuln_vers": [
+            "9.0.35",
+            "9.0.36",
+            "9.0.37",
+            "9.0.38",
+            "9.0.39",
+            "9.0.40",
+            "9.0.41",
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45",
+            "9.0.46",
+            "9.0.47"
+        ]
+    },
+    "@operato/shell": {
+        "vuln_vers": [
+            "9.0.22",
+            "9.0.35",
+            "9.0.36",
+            "9.0.37",
+            "9.0.38",
+            "9.0.39"
+        ]
+    },
+    "@operato/styles": {
+        "vuln_vers": [
+            "9.0.2",
+            "9.0.35",
+            "9.0.36",
+            "9.0.37"
+        ]
+    },
+    "@operato/utils": {
+        "vuln_vers": [
+            "9.0.22",
+            "9.0.35",
+            "9.0.36",
+            "9.0.37",
+            "9.0.38",
+            "9.0.39",
+            "9.0.40",
+            "9.0.41",
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45",
+            "9.0.46",
+            "9.0.47",
+            "9.0.48",
+            "9.0.49",
+            "9.0.50",
+            "9.0.51"
+        ]
+    },
+    "@rxap/ngx-bootstrap": {
+        "vuln_vers": [
+            "19.0.3",
+            "19.0.4"
+        ]
+    },
+    "@teriyakibomb/ember-velcro": {
+        "vuln_vers": [
+            "2.2.1"
+        ]
+    },
+    "@teselagen/bio-parsers": {
+        "vuln_vers": [
+            "0.4.30"
+        ]
+    },
+    "@teselagen/bounce-loader": {
+        "vuln_vers": [
+            "0.3.16",
+            "0.3.17"
+        ]
+    },
+    "@teselagen/file-utils": {
+        "vuln_vers": [
+            "0.3.22"
+        ]
+    },
+    "@teselagen/liquibase-tools": {
+        "vuln_vers": [
+            "0.4.1"
+        ]
+    },
+    "@teselagen/ove": {
+        "vuln_vers": [
+            "0.7.40"
+        ]
+    },
+    "@teselagen/range-utils": {
+        "vuln_vers": [
+            "0.3.14",
+            "0.3.15"
+        ]
+    },
+    "@teselagen/react-list": {
+        "vuln_vers": [
+            "0.8.19",
+            "0.8.20"
+        ]
+    },
+    "@teselagen/react-table": {
+        "vuln_vers": [
+            "6.10.19",
+            "6.10.20",
+            "6.10.22"
+        ]
+    },
+    "@teselagen/sequence-utils": {
+        "vuln_vers": [
+            "0.3.34"
+        ]
+    },
+    "@teselagen/ui": {
+        "vuln_vers": [
+            "0.9.10"
+        ]
+    },
+    "@thangved/callback-window": {
+        "vuln_vers": [
+            "1.1.4"
+        ]
+    },
+    "@things-factory/attachment-base": {
+        "vuln_vers": [
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45",
+            "9.0.46",
+            "9.0.47",
+            "9.0.48",
+            "9.0.49",
+            "9.0.50",
+            "9.0.51",
+            "9.0.52",
+            "9.0.53",
+            "9.0.54",
+            "9.0.55"
+        ]
+    },
+    "@things-factory/auth-base": {
+        "vuln_vers": [
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45"
+        ]
+    },
+    "@things-factory/email-base": {
+        "vuln_vers": [
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45",
+            "9.0.46",
+            "9.0.47",
+            "9.0.48",
+            "9.0.49",
+            "9.0.50",
+            "9.0.51",
+            "9.0.52",
+            "9.0.53",
+            "9.0.54",
+            "9.0.55",
+            "9.0.56",
+            "9.0.57",
+            "9.0.58",
+            "9.0.59"
+        ]
+    },
+    "@things-factory/env": {
+        "vuln_vers": [
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45"
+        ]
+    },
+    "@things-factory/integration-base": {
+        "vuln_vers": [
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45"
+        ]
+    },
+    "@things-factory/integration-marketplace": {
+        "vuln_vers": [
+            "9.0.43",
+            "9.0.44",
+            "9.0.45"
+        ]
+    },
+    "@things-factory/shell": {
+        "vuln_vers": [
+            "9.0.42",
+            "9.0.43",
+            "9.0.44",
+            "9.0.45"
+        ]
+    },
+    "@tnf-dev/api": {
+        "vuln_vers": [
+            "1.0.8"
+        ]
+    },
+    "@tnf-dev/core": {
+        "vuln_vers": [
+            "1.0.8"
+        ]
+    },
+    "@tnf-dev/js": {
+        "vuln_vers": [
+            "1.0.8"
+        ]
+    },
+    "@tnf-dev/mui": {
+        "vuln_vers": [
+            "1.0.8"
+        ]
+    },
+    "@tnf-dev/react": {
+        "vuln_vers": [
+            "1.0.8"
+        ]
+    },
+    "@ui-ux-gang/devextreme-angular-rpk": {
+        "vuln_vers": [
+            "24.1.7"
+        ]
+    },
+    "@yoobic/design-system": {
+        "vuln_vers": [
+            "6.5.17"
+        ]
+    },
+    "@yoobic/jpeg-camera-es6": {
+        "vuln_vers": [
+            "1.0.13"
+        ]
+    },
+    "@yoobic/yobi": {
+        "vuln_vers": [
+            "8.7.53"
+        ]
+    },
+    "airchief": {
+        "vuln_vers": [
+            "0.3.1"
+        ]
+    },
+    "airpilot": {
+        "vuln_vers": [
+            "0.8.8"
+        ]
+    },
+    "angulartics2": {
+        "vuln_vers": [
+            "14.1.1",
+            "14.1.2"
+        ]
+    },
+    "another-shai": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "browser-webdriver-downloader": {
+        "vuln_vers": [
+            "3.0.8"
+        ]
+    },
+    "capacitor-notificationhandler": {
+        "vuln_vers": [
+            "0.0.2",
+            "0.0.3"
+        ]
+    },
+    "capacitor-plugin-healthapp": {
+        "vuln_vers": [
+            "0.0.2",
+            "0.0.3"
+        ]
+    },
+    "capacitor-plugin-ihealth": {
+        "vuln_vers": [
+            "1.1.8",
+            "1.1.9"
+        ]
+    },
+    "capacitor-plugin-vonage": {
+        "vuln_vers": [
+            "1.0.2",
+            "1.0.3"
+        ]
+    },
+    "capacitorandroidpermissions": {
+        "vuln_vers": [
+            "0.0.4",
+            "0.0.5"
+        ]
+    },
+    "config-cordova": {
+        "vuln_vers": [
+            "0.8.5"
+        ]
+    },
+    "cordova-plugin-voxeet2": {
+        "vuln_vers": [
+            "1.0.24"
+        ]
+    },
+    "cordova-voxeet": {
+        "vuln_vers": [
+            "1.0.32"
+        ]
+    },
+    "create-hest-app": {
+        "vuln_vers": [
+            "0.1.9"
+        ]
+    },
+    "db-evo": {
+        "vuln_vers": [
+            "1.1.4",
+            "1.1.5"
+        ]
+    },
+    "devextreme-angular-rpk": {
+        "vuln_vers": [
+            "21.2.8"
+        ]
+    },
+    "ember-browser-services": {
+        "vuln_vers": [
+            "5.0.2",
+            "5.0.3"
+        ]
+    },
+    "ember-headless-form": {
+        "vuln_vers": [
+            "1.1.2",
+            "1.1.3"
+        ]
+    },
+    "ember-headless-form-yup": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "ember-headless-table": {
+        "vuln_vers": [
+            "2.1.5",
+            "2.1.6"
+        ]
+    },
+    "ember-url-hash-polyfill": {
+        "vuln_vers": [
+            "1.0.12",
+            "1.0.13"
+        ]
+    },
+    "ember-velcro": {
+        "vuln_vers": [
+            "2.2.1",
+            "2.2.2"
+        ]
+    },
+    "encounter-playground": {
+        "vuln_vers": [
+            "0.0.2",
+            "0.0.3",
+            "0.0.4",
+            "0.0.5"
+        ]
+    },
+    "eslint-config-crowdstrike": {
+        "vuln_vers": [
+            "11.0.2",
+            "11.0.3"
+        ]
+    },
+    "eslint-config-crowdstrike-node": {
+        "vuln_vers": [
+            "4.0.3",
+            "4.0.4"
+        ]
+    },
+    "eslint-config-teselagen": {
+        "vuln_vers": [
+            "6.1.7",
+            "6.1.8"
+        ]
+    },
+    "globalize-rpk": {
+        "vuln_vers": [
+            "1.7.4"
+        ]
+    },
+    "graphql-sequelize-teselagen": {
+        "vuln_vers": [
+            "5.3.8",
+            "5.3.9"
+        ]
+    },
+    "html-to-base64-image": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "json-rules-engine-simplified": {
+        "vuln_vers": [
+            "0.2.1",
+            "0.2.4"
+        ]
+    },
+    "jumpgate": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "koa2-swagger-ui": {
+        "vuln_vers": [
+            "5.11.1",
+            "5.11.2"
+        ]
+    },
+    "mcfly-semantic-release": {
+        "vuln_vers": [
+            "1.3.1"
+        ]
+    },
+    "mcp-knowledge-base": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "mcp-knowledge-graph": {
+        "vuln_vers": [
+            "1.2.1"
+        ]
+    },
+    "mobioffice-cli": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "monorepo-next": {
+        "vuln_vers": [
+            "13.0.1",
+            "13.0.2"
+        ]
+    },
+    "mstate-angular": {
+        "vuln_vers": [
+            "0.4.4"
+        ]
+    },
+    "mstate-cli": {
+        "vuln_vers": [
+            "0.4.7"
+        ]
+    },
+    "mstate-dev-react": {
+        "vuln_vers": [
+            "1.1.1"
+        ]
+    },
+    "mstate-react": {
+        "vuln_vers": [
+            "1.6.5"
+        ]
+    },
+    "ng2-file-upload": {
+        "vuln_vers": [
+            "7.0.2",
+            "7.0.3",
+            "8.0.1",
+            "8.0.2",
+            "8.0.3",
+            "9.0.1"
+        ]
+    },
+    "ngx-bootstrap": {
+        "vuln_vers": [
+            "18.1.4",
+            "19.0.3",
+            "19.0.4",
+            "20.0.3",
+            "20.0.4",
+            "20.0.5"
+        ]
+    },
+    "ngx-color": {
+        "vuln_vers": [
+            "10.0.1",
+            "10.0.2"
+        ]
+    },
+    "ngx-toastr": {
+        "vuln_vers": [
+            "19.0.1",
+            "19.0.2"
+        ]
+    },
+    "ngx-trend": {
+        "vuln_vers": [
+            "8.0.1"
+        ]
+    },
+    "ngx-ws": {
+        "vuln_vers": [
+            "1.1.5",
+            "1.1.6"
+        ]
+    },
+    "oradm-to-gql": {
+        "vuln_vers": [
+            "35.0.14",
+            "35.0.15"
+        ]
+    },
+    "oradm-to-sqlz": {
+        "vuln_vers": [
+            "1.1.2"
+        ]
+    },
+    "ove-auto-annotate": {
+        "vuln_vers": [
+            "0.0.10",
+            "0.0.9"
+        ]
+    },
+    "pm2-gelf-json": {
+        "vuln_vers": [
+            "1.0.4",
+            "1.0.5"
+        ]
+    },
+    "printjs-rpk": {
+        "vuln_vers": [
+            "1.6.1"
+        ]
+    },
+    "react-complaint-image": {
+        "vuln_vers": [
+            "0.0.32",
+            "0.0.35"
+        ]
+    },
+    "react-jsonschema-form-conditionals": {
+        "vuln_vers": [
+            "0.3.18",
+            "0.3.21"
+        ]
+    },
+    "react-jsonschema-form-extras": {
+        "vuln_vers": [
+            "1.0.4"
+        ]
+    },
+    "react-jsonschema-rxnt-extras": {
+        "vuln_vers": [
+            "0.4.9"
+        ]
+    },
+    "remark-preset-lint-crowdstrike": {
+        "vuln_vers": [
+            "4.0.1",
+            "4.0.2"
+        ]
+    },
+    "rxnt-authentication": {
+        "vuln_vers": [
+            "0.0.3",
+            "0.0.4",
+            "0.0.5",
+            "0.0.6"
+        ]
+    },
+    "rxnt-healthchecks-nestjs": {
+        "vuln_vers": [
+            "1.0.2",
+            "1.0.3",
+            "1.0.4",
+            "1.0.5"
+        ]
+    },
+    "rxnt-kue": {
+        "vuln_vers": [
+            "1.0.4",
+            "1.0.5",
+            "1.0.6",
+            "1.0.7"
+        ]
+    },
+    "swc-plugin-component-annotate": {
+        "vuln_vers": [
+            "1.9.1",
+            "1.9.2"
+        ]
+    },
+    "tbssnch": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "teselagen-interval-tree": {
+        "vuln_vers": [
+            "1.1.2"
+        ]
+    },
+    "tg-client-query-builder": {
+        "vuln_vers": [
+            "2.14.4",
+            "2.14.5"
+        ]
+    },
+    "tg-redbird": {
+        "vuln_vers": [
+            "1.3.1",
+            "1.3.2"
+        ]
+    },
+    "tg-seq-gen": {
+        "vuln_vers": [
+            "1.0.10",
+            "1.0.9"
+        ]
+    },
+    "thangved-react-grid": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "ts-gaussian": {
+        "vuln_vers": [
+            "3.0.5",
+            "3.0.6"
+        ]
+    },
+    "ts-imports": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "tvi-cli": {
+        "vuln_vers": [
+            "0.1.5"
+        ]
+    },
+    "ve-bamreader": {
+        "vuln_vers": [
+            "0.2.6",
+            "0.2.7"
+        ]
+    },
+    "ve-editor": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "verror-extra": {
+        "vuln_vers": [
+            "6.0.1"
+        ]
+    },
+    "voip-callkit": {
+        "vuln_vers": [
+            "1.0.2",
+            "1.0.3"
+        ]
+    },
+    "wdio-web-reporter": {
+        "vuln_vers": [
+            "0.1.3"
+        ]
+    },
+    "yargs-help-output": {
+        "vuln_vers": [
+            "5.0.3"
+        ]
+    },
+    "yoo-styles": {
+        "vuln_vers": [
+            "6.0.326"
+        ]
+    },
+    "02-echo": {
+        "vuln_vers": [
+            "0.0.7"
+        ]
+    },
+    "@accordproject/concerto-analysis": {
+        "vuln_vers": [
+            "3.24.1"
+        ]
+    },
+    "@accordproject/concerto-linter": {
+        "vuln_vers": [
+            "3.24.1"
+        ]
+    },
+    "@accordproject/concerto-linter-default-ruleset": {
+        "vuln_vers": [
+            "3.24.1"
+        ]
+    },
+    "@accordproject/concerto-metamodel": {
+        "vuln_vers": [
+            "3.12.5"
+        ]
+    },
+    "@accordproject/concerto-types": {
+        "vuln_vers": [
+            "3.24.1"
+        ]
+    },
+    "@accordproject/markdown-it-cicero": {
+        "vuln_vers": [
+            "0.16.26"
+        ]
+    },
+    "@accordproject/template-engine": {
+        "vuln_vers": [
+            "2.7.2"
+        ]
+    },
+    "@actbase/css-to-react-native-transform": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "@actbase/native": {
+        "vuln_vers": [
+            "0.1.32"
+        ]
+    },
+    "@actbase/node-server": {
+        "vuln_vers": [
+            "1.1.19"
+        ]
+    },
+    "@actbase/react-absolute": {
+        "vuln_vers": [
+            "0.8.3"
+        ]
+    },
+    "@actbase/react-daum-postcode": {
+        "vuln_vers": [
+            "1.0.5"
+        ]
+    },
+    "@actbase/react-kakaosdk": {
+        "vuln_vers": [
+            "0.9.27"
+        ]
+    },
+    "@actbase/react-native-actionsheet": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "@actbase/react-native-devtools": {
+        "vuln_vers": [
+            "0.1.3"
+        ]
+    },
+    "@actbase/react-native-fast-image": {
+        "vuln_vers": [
+            "8.5.13"
+        ]
+    },
+    "@actbase/react-native-kakao-channel": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "@actbase/react-native-kakao-navi": {
+        "vuln_vers": [
+            "2.0.4"
+        ]
+    },
+    "@actbase/react-native-less-transformer": {
+        "vuln_vers": [
+            "1.0.6"
+        ]
+    },
+    "@actbase/react-native-naver-login": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "@actbase/react-native-simple-video": {
+        "vuln_vers": [
+            "1.0.13"
+        ]
+    },
+    "@actbase/react-native-tiktok": {
+        "vuln_vers": [
+            "1.1.3"
+        ]
+    },
+    "@alaan/s2s-auth": {
+        "vuln_vers": [
+            "2.0.3"
+        ]
+    },
+    "@alexcolls/nuxt-socket.io": {
+        "vuln_vers": [
+            "0.0.7",
+            "0.0.8"
+        ]
+    },
+    "@alexcolls/nuxt-ux": {
+        "vuln_vers": [
+            "0.6.1",
+            "0.6.2"
+        ]
+    },
+    "@antstackio/eslint-config-antstack": {
+        "vuln_vers": [
+            "0.0.3"
+        ]
+    },
+    "@antstackio/express-graphql-proxy": {
+        "vuln_vers": [
+            "0.2.8"
+        ]
+    },
+    "@antstackio/graphql-body-parser": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "@antstackio/json-to-graphql": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "@antstackio/shelbysam": {
+        "vuln_vers": [
+            "1.1.7"
+        ]
+    },
+    "@aryanhussain/my-angular-lib": {
+        "vuln_vers": [
+            "0.0.23"
+        ]
+    },
+    "@asyncapi/avro-schema-parser": {
+        "vuln_vers": [
+            "3.0.25",
+            "3.0.26"
+        ]
+    },
+    "@asyncapi/bundler": {
+        "vuln_vers": [
+            "0.6.5",
+            "0.6.6"
+        ]
+    },
+    "@asyncapi/cli": {
+        "vuln_vers": [
+            "4.1.2",
+            "4.1.3"
+        ]
+    },
+    "@asyncapi/converter": {
+        "vuln_vers": [
+            "1.6.3",
+            "1.6.4"
+        ]
+    },
+    "@asyncapi/diff": {
+        "vuln_vers": [
+            "0.5.1",
+            "0.5.2"
+        ]
+    },
+    "@asyncapi/dotnet-rabbitmq-template": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "@asyncapi/edavisualiser": {
+        "vuln_vers": [
+            "1.2.1",
+            "1.2.2"
+        ]
+    },
+    "@asyncapi/generator": {
+        "vuln_vers": [
+            "2.8.5",
+            "2.8.6"
+        ]
+    },
+    "@asyncapi/generator-components": {
+        "vuln_vers": [
+            "0.3.2",
+            "0.3.3"
+        ]
+    },
+    "@asyncapi/generator-helpers": {
+        "vuln_vers": [
+            "0.2.1",
+            "0.2.2"
+        ]
+    },
+    "@asyncapi/generator-react-sdk": {
+        "vuln_vers": [
+            "1.1.4",
+            "1.1.5"
+        ]
+    },
+    "@asyncapi/go-watermill-template": {
+        "vuln_vers": [
+            "0.2.76",
+            "0.2.77"
+        ]
+    },
+    "@asyncapi/html-template": {
+        "vuln_vers": [
+            "3.3.2",
+            "3.3.3"
+        ]
+    },
+    "@asyncapi/java-spring-cloud-stream-template": {
+        "vuln_vers": [
+            "0.13.5",
+            "0.13.6"
+        ]
+    },
+    "@asyncapi/java-spring-template": {
+        "vuln_vers": [
+            "1.6.1",
+            "1.6.2"
+        ]
+    },
+    "@asyncapi/java-template": {
+        "vuln_vers": [
+            "0.3.5",
+            "0.3.6"
+        ]
+    },
+    "@asyncapi/keeper": {
+        "vuln_vers": [
+            "0.0.2",
+            "0.0.3"
+        ]
+    },
+    "@asyncapi/markdown-template": {
+        "vuln_vers": [
+            "1.6.8",
+            "1.6.9"
+        ]
+    },
+    "@asyncapi/modelina": {
+        "vuln_vers": [
+            "5.10.3"
+        ]
+    },
+    "@asyncapi/modelina-cli": {
+        "vuln_vers": [
+            "5.10.2",
+            "5.10.3"
+        ]
+    },
+    "@asyncapi/multi-parser": {
+        "vuln_vers": [
+            "2.2.1",
+            "2.2.2"
+        ]
+    },
+    "@asyncapi/nodejs-template": {
+        "vuln_vers": [
+            "3.0.5",
+            "3.0.6"
+        ]
+    },
+    "@asyncapi/nodejs-ws-template": {
+        "vuln_vers": [
+            "0.10.1",
+            "0.10.2"
+        ]
+    },
+    "@asyncapi/nunjucks-filters": {
+        "vuln_vers": [
+            "2.1.1",
+            "2.1.2"
+        ]
+    },
+    "@asyncapi/openapi-schema-parser": {
+        "vuln_vers": [
+            "3.0.25",
+            "3.0.26"
+        ]
+    },
+    "@asyncapi/optimizer": {
+        "vuln_vers": [
+            "1.0.5",
+            "1.0.6"
+        ]
+    },
+    "@asyncapi/parser": {
+        "vuln_vers": [
+            "3.4.1",
+            "3.4.2"
+        ]
+    },
+    "@asyncapi/php-template": {
+        "vuln_vers": [
+            "0.1.1",
+            "0.1.2"
+        ]
+    },
+    "@asyncapi/problem": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "@asyncapi/protobuf-schema-parser": {
+        "vuln_vers": [
+            "3.5.2",
+            "3.5.3",
+            "3.6.1"
+        ]
+    },
+    "@asyncapi/python-paho-template": {
+        "vuln_vers": [
+            "0.2.14",
+            "0.2.15"
+        ]
+    },
+    "@asyncapi/react-component": {
+        "vuln_vers": [
+            "2.6.6",
+            "2.6.7"
+        ]
+    },
+    "@asyncapi/server-api": {
+        "vuln_vers": [
+            "0.16.24",
+            "0.16.25"
+        ]
+    },
+    "@asyncapi/specs": {
+        "vuln_vers": [
+            "6.8.3",
+            "6.9.1"
+        ]
+    },
+    "@asyncapi/studio": {
+        "vuln_vers": [
+            "1.0.2",
+            "1.0.3"
+        ]
+    },
+    "@asyncapi/web-component": {
+        "vuln_vers": [
+            "2.6.6",
+            "2.6.7"
+        ]
+    },
+    "@caretive/caret-cli": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@clausehq/flows-step-httprequest": {
+        "vuln_vers": [
+            "0.1.14"
+        ]
+    },
+    "@clausehq/flows-step-jsontoxml": {
+        "vuln_vers": [
+            "0.1.14"
+        ]
+    },
+    "@clausehq/flows-step-mqtt": {
+        "vuln_vers": [
+            "0.1.14"
+        ]
+    },
+    "@clausehq/flows-step-sendgridemail": {
+        "vuln_vers": [
+            "0.1.14"
+        ]
+    },
+    "@clausehq/flows-step-taskscreateurl": {
+        "vuln_vers": [
+            "0.1.14"
+        ]
+    },
+    "@commute/bloom": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "@commute/market-data": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "@commute/market-data-chartjs": {
+        "vuln_vers": [
+            "2.3.1"
+        ]
+    },
+    "@dev-blinq/ai-qa-logic": {
+        "vuln_vers": [
+            "1.0.19"
+        ]
+    },
+    "@dev-blinq/blinqioclient": {
+        "vuln_vers": [
+            "1.0.21"
+        ]
+    },
+    "@dev-blinq/cucumber-js": {
+        "vuln_vers": [
+            "1.0.131"
+        ]
+    },
+    "@dev-blinq/cucumber_client": {
+        "vuln_vers": [
+            "1.0.738"
+        ]
+    },
+    "@dev-blinq/ui-systems": {
+        "vuln_vers": [
+            "1.0.93"
+        ]
+    },
+    "@ensdomains/address-encoder": {
+        "vuln_vers": [
+            "1.1.5"
+        ]
+    },
+    "@ensdomains/blacklist": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "@ensdomains/buffer": {
+        "vuln_vers": [
+            "0.1.2"
+        ]
+    },
+    "@ensdomains/ccip-read-cf-worker": {
+        "vuln_vers": [
+            "0.0.4"
+        ]
+    },
+    "@ensdomains/ccip-read-dns-gateway": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "@ensdomains/ccip-read-router": {
+        "vuln_vers": [
+            "0.0.7"
+        ]
+    },
+    "@ensdomains/ccip-read-worker-viem": {
+        "vuln_vers": [
+            "0.0.4"
+        ]
+    },
+    "@ensdomains/content-hash": {
+        "vuln_vers": [
+            "3.0.1"
+        ]
+    },
+    "@ensdomains/curvearithmetics": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "@ensdomains/cypress-metamask": {
+        "vuln_vers": [
+            "1.2.1"
+        ]
+    },
+    "@ensdomains/dnsprovejs": {
+        "vuln_vers": [
+            "0.5.3"
+        ]
+    },
+    "@ensdomains/dnssec-oracle-anchors": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@ensdomains/dnssecoraclejs": {
+        "vuln_vers": [
+            "0.2.9"
+        ]
+    },
+    "@ensdomains/durin": {
+        "vuln_vers": [
+            "0.1.2"
+        ]
+    },
+    "@ensdomains/durin-middleware": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@ensdomains/ens-archived-contracts": {
+        "vuln_vers": [
+            "0.0.3"
+        ]
+    },
+    "@ensdomains/ens-avatar": {
+        "vuln_vers": [
+            "1.0.4"
+        ]
+    },
+    "@ensdomains/ens-contracts": {
+        "vuln_vers": [
+            "1.6.1"
+        ]
+    },
+    "@ensdomains/ens-test-env": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "@ensdomains/ens-validation": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "@ensdomains/ensjs": {
+        "vuln_vers": [
+            "4.0.3"
+        ]
+    },
+    "@ensdomains/ensjs-react": {
+        "vuln_vers": [
+            "0.0.5"
+        ]
+    },
+    "@ensdomains/eth-ens-namehash": {
+        "vuln_vers": [
+            "2.0.16"
+        ]
+    },
+    "@ensdomains/hackathon-registrar": {
+        "vuln_vers": [
+            "1.0.5"
+        ]
+    },
+    "@ensdomains/hardhat-chai-matchers-viem": {
+        "vuln_vers": [
+            "0.1.15"
+        ]
+    },
+    "@ensdomains/hardhat-toolbox-viem-extended": {
+        "vuln_vers": [
+            "0.0.6"
+        ]
+    },
+    "@ensdomains/mock": {
+        "vuln_vers": [
+            "2.1.52"
+        ]
+    },
+    "@ensdomains/name-wrapper": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "@ensdomains/offchain-resolver-contracts": {
+        "vuln_vers": [
+            "0.2.2"
+        ]
+    },
+    "@ensdomains/op-resolver-contracts": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@ensdomains/react-ens-address": {
+        "vuln_vers": [
+            "0.0.32"
+        ]
+    },
+    "@ensdomains/renewal": {
+        "vuln_vers": [
+            "0.0.13"
+        ]
+    },
+    "@ensdomains/renewal-widget": {
+        "vuln_vers": [
+            "0.1.10"
+        ]
+    },
+    "@ensdomains/reverse-records": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "@ensdomains/server-analytics": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@ensdomains/solsha1": {
+        "vuln_vers": [
+            "0.0.4"
+        ]
+    },
+    "@ensdomains/subdomain-registrar": {
+        "vuln_vers": [
+            "0.2.4"
+        ]
+    },
+    "@ensdomains/test-utils": {
+        "vuln_vers": [
+            "1.3.1"
+        ]
+    },
+    "@ensdomains/thorin": {
+        "vuln_vers": [
+            "0.6.51"
+        ]
+    },
+    "@ensdomains/ui": {
+        "vuln_vers": [
+            "3.4.6"
+        ]
+    },
+    "@ensdomains/unicode-confusables": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "@ensdomains/unruggable-gateways": {
+        "vuln_vers": [
+            "0.0.3"
+        ]
+    },
+    "@ensdomains/vite-plugin-i18next-loader": {
+        "vuln_vers": [
+            "4.0.4"
+        ]
+    },
+    "@ensdomains/web3modal": {
+        "vuln_vers": [
+            "1.10.2"
+        ]
+    },
+    "@everreal/react-charts": {
+        "vuln_vers": [
+            "2.0.2"
+        ]
+    },
+    "@everreal/validate-esmoduleinterop-imports": {
+        "vuln_vers": [
+            "1.4.5"
+        ]
+    },
+    "@everreal/web-analytics": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@faq-component/core": {
+        "vuln_vers": [
+            "0.0.4"
+        ]
+    },
+    "@faq-component/react": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "@fishingbooker/browser-sync-plugin": {
+        "vuln_vers": [
+            "1.0.5"
+        ]
+    },
+    "@fishingbooker/react-loader": {
+        "vuln_vers": [
+            "1.0.7"
+        ]
+    },
+    "@fishingbooker/react-pagination": {
+        "vuln_vers": [
+            "2.0.6"
+        ]
+    },
+    "@fishingbooker/react-raty": {
+        "vuln_vers": [
+            "2.0.1"
+        ]
+    },
+    "@fishingbooker/react-swiper": {
+        "vuln_vers": [
+            "0.1.5"
+        ]
+    },
+    "@hapheus/n8n-nodes-pgp": {
+        "vuln_vers": [
+            "1.5.1"
+        ]
+    },
+    "@hover-design/core": {
+        "vuln_vers": [
+            "0.0.1"
+        ]
+    },
+    "@hover-design/react": {
+        "vuln_vers": [
+            "0.2.1"
+        ]
+    },
+    "@ifelsedeveloper/protocol-contracts-svm-idl": {
+        "vuln_vers": [
+            "0.1.2"
+        ]
+    },
+    "@ifings/design-system": {
+        "vuln_vers": [
+            "4.9.2"
+        ]
+    },
+    "@ifings/metatron3": {
+        "vuln_vers": [
+            "0.1.5"
+        ]
+    },
+    "@kvytech/cli": {
+        "vuln_vers": [
+            "0.0.7"
+        ]
+    },
+    "@kvytech/components": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@kvytech/habbit-e2e-test": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@kvytech/medusa-plugin-announcement": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@kvytech/medusa-plugin-management": {
+        "vuln_vers": [
+            "0.0.5"
+        ]
+    },
+    "@kvytech/medusa-plugin-newsletter": {
+        "vuln_vers": [
+            "0.0.5"
+        ]
+    },
+    "@kvytech/medusa-plugin-product-reviews": {
+        "vuln_vers": [
+            "0.0.9"
+        ]
+    },
+    "@kvytech/medusa-plugin-promotion": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@kvytech/web": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@lessondesk/api-client": {
+        "vuln_vers": [
+            "9.12.2",
+            "9.12.3"
+        ]
+    },
+    "@lessondesk/babel-preset": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "@lessondesk/electron-group-api-client": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "@lessondesk/eslint-config": {
+        "vuln_vers": [
+            "1.4.2"
+        ]
+    },
+    "@lessondesk/material-icons": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "@lessondesk/react-table-context": {
+        "vuln_vers": [
+            "2.0.4"
+        ]
+    },
+    "@lessondesk/schoolbus": {
+        "vuln_vers": [
+            "5.2.2",
+            "5.2.3"
+        ]
+    },
+    "@louisle2/core": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "@louisle2/cortex-js": {
+        "vuln_vers": [
+            "0.1.6"
+        ]
+    },
+    "@lpdjs/firestore-repo-service": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "@markvivanco/app-version-checker": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "@mcp-use/cli": {
+        "vuln_vers": [
+            "2.2.6",
+            "2.2.7"
+        ]
+    },
+    "@mcp-use/inspector": {
+        "vuln_vers": [
+            "0.6.2",
+            "0.6.3"
+        ]
+    },
+    "@mcp-use/mcp-use": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "@ntnx/passport-wso2": {
+        "vuln_vers": [
+            "0.0.3"
+        ]
+    },
+    "@ntnx/t": {
+        "vuln_vers": [
+            "0.0.101"
+        ]
+    },
+    "@orbitgtbelgium/mapbox-gl-draw-cut-polygon-mode": {
+        "vuln_vers": [
+            "2.0.5"
+        ]
+    },
+    "@orbitgtbelgium/mapbox-gl-draw-scale-rotate-mode": {
+        "vuln_vers": [
+            "1.1.1"
+        ]
+    },
+    "@orbitgtbelgium/orbit-components": {
+        "vuln_vers": [
+            "1.2.9"
+        ]
+    },
+    "@orbitgtbelgium/time-slider": {
+        "vuln_vers": [
+            "1.0.187"
+        ]
+    },
+    "@osmanekrem/bmad": {
+        "vuln_vers": [
+            "1.0.6"
+        ]
+    },
+    "@osmanekrem/error-handler": {
+        "vuln_vers": [
+            "1.2.2"
+        ]
+    },
+    "@posthog/agent": {
+        "vuln_vers": [
+            "1.24.1"
+        ]
+    },
+    "@posthog/ai": {
+        "vuln_vers": [
+            "7.1.2"
+        ]
+    },
+    "@posthog/automatic-cohorts-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/bitbucket-release-tracker": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/cli": {
+        "vuln_vers": [
+            "0.5.15"
+        ]
+    },
+    "@posthog/clickhouse": {
+        "vuln_vers": [
+            "1.7.1"
+        ]
+    },
+    "@posthog/core": {
+        "vuln_vers": [
+            "1.5.6"
+        ]
+    },
+    "@posthog/currency-normalization-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/customerio-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/databricks-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/drop-events-on-property-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/event-sequence-timer-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/filter-out-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/first-time-event-tracker": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/geoip-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/github-release-tracking-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/gitub-star-sync-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/heartbeat-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/hedgehog-mode": {
+        "vuln_vers": [
+            "0.0.42"
+        ]
+    },
+    "@posthog/icons": {
+        "vuln_vers": [
+            "0.36.1"
+        ]
+    },
+    "@posthog/ingestion-alert-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/intercom-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/kinesis-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/laudspeaker-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/lemon-ui": {
+        "vuln_vers": [
+            "0.0.1"
+        ]
+    },
+    "@posthog/maxmind-plugin": {
+        "vuln_vers": [
+            "0.1.6"
+        ]
+    },
+    "@posthog/migrator3000-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/netdata-event-processing": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/nextjs": {
+        "vuln_vers": [
+            "0.0.3"
+        ]
+    },
+    "@posthog/nextjs-config": {
+        "vuln_vers": [
+            "1.5.1"
+        ]
+    },
+    "@posthog/nuxt": {
+        "vuln_vers": [
+            "1.2.9"
+        ]
+    },
+    "@posthog/pagerduty-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/piscina": {
+        "vuln_vers": [
+            "3.2.1"
+        ]
+    },
+    "@posthog/plugin-contrib": {
+        "vuln_vers": [
+            "0.0.6"
+        ]
+    },
+    "@posthog/plugin-server": {
+        "vuln_vers": [
+            "1.10.8"
+        ]
+    },
+    "@posthog/plugin-unduplicates": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/postgres-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/react-rrweb-player": {
+        "vuln_vers": [
+            "1.1.4"
+        ]
+    },
+    "@posthog/rrdom": {
+        "vuln_vers": [
+            "0.0.31"
+        ]
+    },
+    "@posthog/rrweb": {
+        "vuln_vers": [
+            "0.0.31"
+        ]
+    },
+    "@posthog/rrweb-player": {
+        "vuln_vers": [
+            "0.0.31"
+        ]
+    },
+    "@posthog/rrweb-record": {
+        "vuln_vers": [
+            "0.0.31"
+        ]
+    },
+    "@posthog/rrweb-replay": {
+        "vuln_vers": [
+            "0.0.19"
+        ]
+    },
+    "@posthog/rrweb-snapshot": {
+        "vuln_vers": [
+            "0.0.31"
+        ]
+    },
+    "@posthog/rrweb-utils": {
+        "vuln_vers": [
+            "0.0.31"
+        ]
+    },
+    "@posthog/sendgrid-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/siphash": {
+        "vuln_vers": [
+            "1.1.2"
+        ]
+    },
+    "@posthog/snowflake-export-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/taxonomy-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/twilio-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/twitter-followers-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/url-normalizer-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/variance-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@posthog/web-dev-server": {
+        "vuln_vers": [
+            "1.0.5"
+        ]
+    },
+    "@posthog/wizard": {
+        "vuln_vers": [
+            "1.18.1"
+        ]
+    },
+    "@posthog/zendesk-plugin": {
+        "vuln_vers": [
+            "0.0.8"
+        ]
+    },
+    "@postman/csv-parse": {
+        "vuln_vers": [
+            "4.0.3",
+            "4.0.5"
+        ]
+    },
+    "@postman/final-node-keytar": {
+        "vuln_vers": [
+            "7.9.1",
+            "7.9.2",
+            "7.9.3"
+        ]
+    },
+    "@postman/mcp-ui-client": {
+        "vuln_vers": [
+            "5.5.1",
+            "5.5.3"
+        ]
+    },
+    "@postman/node-keytar": {
+        "vuln_vers": [
+            "7.9.4",
+            "7.9.6"
+        ]
+    },
+    "@postman/pm-bin-linux-x64": {
+        "vuln_vers": [
+            "1.24.3",
+            "1.24.4",
+            "1.24.5"
+        ]
+    },
+    "@postman/pm-bin-macos-arm64": {
+        "vuln_vers": [
+            "1.24.3",
+            "1.24.5"
+        ]
+    },
+    "@postman/pm-bin-macos-x64": {
+        "vuln_vers": [
+            "1.24.3",
+            "1.24.5"
+        ]
+    },
+    "@postman/pm-bin-windows-x64": {
+        "vuln_vers": [
+            "1.24.3",
+            "1.24.5"
+        ]
+    },
+    "@postman/postman-collection-fork": {
+        "vuln_vers": [
+            "4.3.3",
+            "4.3.5"
+        ]
+    },
+    "@postman/postman-mcp-cli": {
+        "vuln_vers": [
+            "1.0.3",
+            "1.0.4",
+            "1.0.5"
+        ]
+    },
+    "@postman/postman-mcp-server": {
+        "vuln_vers": [
+            "2.4.10",
+            "2.4.12"
+        ]
+    },
+    "@postman/pretty-ms": {
+        "vuln_vers": [
+            "6.1.1",
+            "6.1.2",
+            "6.1.3"
+        ]
+    },
+    "@postman/secret-scanner-wasm": {
+        "vuln_vers": [
+            "2.1.3",
+            "2.1.4"
+        ]
+    },
+    "@postman/tunnel-agent": {
+        "vuln_vers": [
+            "0.6.5",
+            "0.6.7"
+        ]
+    },
+    "@postman/wdio-allure-reporter": {
+        "vuln_vers": [
+            "0.0.7",
+            "0.0.9"
+        ]
+    },
+    "@postman/wdio-junit-reporter": {
+        "vuln_vers": [
+            "0.0.4",
+            "0.0.5",
+            "0.0.6"
+        ]
+    },
+    "@pradhumngautam/common-app": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "@pruthvi21/use-debounce": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "@quick-start-soft/quick-document-translator": {
+        "vuln_vers": [
+            "1.4.2511142126"
+        ]
+    },
+    "@quick-start-soft/quick-git-clean-markdown": {
+        "vuln_vers": [
+            "1.4.2511142126"
+        ]
+    },
+    "@quick-start-soft/quick-markdown": {
+        "vuln_vers": [
+            "1.4.2511142126"
+        ]
+    },
+    "@quick-start-soft/quick-markdown-compose": {
+        "vuln_vers": [
+            "1.4.2506300029"
+        ]
+    },
+    "@quick-start-soft/quick-markdown-image": {
+        "vuln_vers": [
+            "1.4.2511142126"
+        ]
+    },
+    "@quick-start-soft/quick-markdown-print": {
+        "vuln_vers": [
+            "1.4.2511142126"
+        ]
+    },
+    "@quick-start-soft/quick-markdown-translator": {
+        "vuln_vers": [
+            "1.4.2509202331"
+        ]
+    },
+    "@quick-start-soft/quick-remove-image-background": {
+        "vuln_vers": [
+            "1.4.2511142126"
+        ]
+    },
+    "@quick-start-soft/quick-task-refine": {
+        "vuln_vers": [
+            "1.4.2511142126"
+        ]
+    },
+    "@relyt/claude-context-core": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "@relyt/claude-context-mcp": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "@seezo/sdr-mcp-server": {
+        "vuln_vers": [
+            "0.0.5"
+        ]
+    },
+    "@seung-ju/next": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@seung-ju/openapi-generator": {
+        "vuln_vers": [
+            "0.0.4"
+        ]
+    },
+    "@seung-ju/react-hooks": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "@seung-ju/react-native-action-sheet": {
+        "vuln_vers": [
+            "0.2.1"
+        ]
+    },
+    "@sme-ui/aoma-vevasound-metadata-lib": {
+        "vuln_vers": [
+            "0.1.3"
+        ]
+    },
+    "@strapbuild/react-native-date-time-picker": {
+        "vuln_vers": [
+            "2.0.4"
+        ]
+    },
+    "@strapbuild/react-native-perspective-image-cropper": {
+        "vuln_vers": [
+            "0.4.15"
+        ]
+    },
+    "@strapbuild/react-native-perspective-image-cropper-2": {
+        "vuln_vers": [
+            "0.4.7"
+        ]
+    },
+    "@strapbuild/react-native-perspective-image-cropper-poojan31": {
+        "vuln_vers": [
+            "0.4.6"
+        ]
+    },
+    "@suraj_h/medium-common": {
+        "vuln_vers": [
+            "1.0.5"
+        ]
+    },
+    "@thedelta/eslint-config": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "@tiaanduplessis/json": {
+        "vuln_vers": [
+            "2.0.2",
+            "2.0.3"
+        ]
+    },
+    "@tiaanduplessis/react-progressbar": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "@trefox/sleekshop-js": {
+        "vuln_vers": [
+            "0.1.6"
+        ]
+    },
+    "@trigo/atrix": {
+        "vuln_vers": [
+            "7.0.1"
+        ]
+    },
+    "@trigo/atrix-acl": {
+        "vuln_vers": [
+            "4.0.2"
+        ]
+    },
+    "@trigo/atrix-elasticsearch": {
+        "vuln_vers": [
+            "2.0.1"
+        ]
+    },
+    "@trigo/atrix-mongoose": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "@trigo/atrix-orientdb": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "@trigo/atrix-postgres": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "@trigo/atrix-pubsub": {
+        "vuln_vers": [
+            "4.0.3"
+        ]
+    },
+    "@trigo/atrix-redis": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "@trigo/atrix-soap": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "@trigo/atrix-swagger": {
+        "vuln_vers": [
+            "3.0.1"
+        ]
+    },
+    "@trigo/bool-expressions": {
+        "vuln_vers": [
+            "4.1.3"
+        ]
+    },
+    "@trigo/eslint-config-trigo": {
+        "vuln_vers": [
+            "3.3.1"
+        ]
+    },
+    "@trigo/fsm": {
+        "vuln_vers": [
+            "3.4.2"
+        ]
+    },
+    "@trigo/hapi-auth-signedlink": {
+        "vuln_vers": [
+            "1.3.1"
+        ]
+    },
+    "@trigo/jsdt": {
+        "vuln_vers": [
+            "0.2.1"
+        ]
+    },
+    "@trigo/keycloak-api": {
+        "vuln_vers": [
+            "1.3.1"
+        ]
+    },
+    "@trigo/node-soap": {
+        "vuln_vers": [
+            "0.5.4"
+        ]
+    },
+    "@trigo/pathfinder-ui-css": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "@trigo/trigo-hapijs": {
+        "vuln_vers": [
+            "5.0.1"
+        ]
+    },
+    "@trpc-rate-limiter/cloudflare": {
+        "vuln_vers": [
+            "0.1.4"
+        ]
+    },
+    "@trpc-rate-limiter/hono": {
+        "vuln_vers": [
+            "0.1.4"
+        ]
+    },
+    "@varsityvibe/api-client": {
+        "vuln_vers": [
+            "1.3.36",
+            "1.3.37"
+        ]
+    },
+    "@varsityvibe/utils": {
+        "vuln_vers": [
+            "5.0.6"
+        ]
+    },
+    "@varsityvibe/validation-schemas": {
+        "vuln_vers": [
+            "0.6.7",
+            "0.6.8"
+        ]
+    },
+    "@voiceflow/alexa-types": {
+        "vuln_vers": [
+            "2.15.61"
+        ]
+    },
+    "@voiceflow/anthropic": {
+        "vuln_vers": [
+            "0.4.4",
+            "0.4.5"
+        ]
+    },
+    "@voiceflow/api-sdk": {
+        "vuln_vers": [
+            "3.28.59"
+        ]
+    },
+    "@voiceflow/backend-utils": {
+        "vuln_vers": [
+            "5.0.1",
+            "5.0.2"
+        ]
+    },
+    "@voiceflow/base-types": {
+        "vuln_vers": [
+            "2.136.2",
+            "2.136.3"
+        ]
+    },
+    "@voiceflow/body-parser": {
+        "vuln_vers": [
+            "1.21.2",
+            "1.21.3"
+        ]
+    },
+    "@voiceflow/chat-types": {
+        "vuln_vers": [
+            "2.14.58",
+            "2.14.59"
+        ]
+    },
+    "@voiceflow/circleci-config-sdk-orb-import": {
+        "vuln_vers": [
+            "0.2.1",
+            "0.2.2"
+        ]
+    },
+    "@voiceflow/commitlint-config": {
+        "vuln_vers": [
+            "2.6.1"
+        ]
+    },
+    "@voiceflow/common": {
+        "vuln_vers": [
+            "8.9.1",
+            "8.9.2"
+        ]
+    },
+    "@voiceflow/default-prompt-wrappers": {
+        "vuln_vers": [
+            "1.7.3",
+            "1.7.4"
+        ]
+    },
+    "@voiceflow/dependency-cruiser-config": {
+        "vuln_vers": [
+            "1.8.11",
+            "1.8.12"
+        ]
+    },
+    "@voiceflow/dtos-interact": {
+        "vuln_vers": [
+            "1.40.1",
+            "1.40.2"
+        ]
+    },
+    "@voiceflow/encryption": {
+        "vuln_vers": [
+            "0.3.2",
+            "0.3.3"
+        ]
+    },
+    "@voiceflow/eslint-config": {
+        "vuln_vers": [
+            "7.16.4",
+            "7.16.5"
+        ]
+    },
+    "@voiceflow/eslint-plugin": {
+        "vuln_vers": [
+            "1.6.1",
+            "1.6.2"
+        ]
+    },
+    "@voiceflow/exception": {
+        "vuln_vers": [
+            "1.10.1",
+            "1.10.2"
+        ]
+    },
+    "@voiceflow/fetch": {
+        "vuln_vers": [
+            "1.11.1",
+            "1.11.2"
+        ]
+    },
+    "@voiceflow/general-types": {
+        "vuln_vers": [
+            "3.2.22",
+            "3.2.23"
+        ]
+    },
+    "@voiceflow/git-branch-check": {
+        "vuln_vers": [
+            "1.4.3"
+        ]
+    },
+    "@voiceflow/google-dfes-types": {
+        "vuln_vers": [
+            "2.17.12",
+            "2.17.13"
+        ]
+    },
+    "@voiceflow/google-types": {
+        "vuln_vers": [
+            "2.21.13"
+        ]
+    },
+    "@voiceflow/husky-config": {
+        "vuln_vers": [
+            "1.3.1"
+        ]
+    },
+    "@voiceflow/logger": {
+        "vuln_vers": [
+            "2.4.2",
+            "2.4.3"
+        ]
+    },
+    "@voiceflow/metrics": {
+        "vuln_vers": [
+            "1.5.1",
+            "1.5.2"
+        ]
+    },
+    "@voiceflow/natural-language-commander": {
+        "vuln_vers": [
+            "0.5.2",
+            "0.5.3"
+        ]
+    },
+    "@voiceflow/nestjs-common": {
+        "vuln_vers": [
+            "2.75.2",
+            "2.75.3"
+        ]
+    },
+    "@voiceflow/nestjs-mongodb": {
+        "vuln_vers": [
+            "1.3.1",
+            "1.3.2"
+        ]
+    },
+    "@voiceflow/nestjs-rate-limit": {
+        "vuln_vers": [
+            "1.3.2",
+            "1.3.3"
+        ]
+    },
+    "@voiceflow/nestjs-redis": {
+        "vuln_vers": [
+            "1.3.1",
+            "1.3.2"
+        ]
+    },
+    "@voiceflow/nestjs-timeout": {
+        "vuln_vers": [
+            "1.3.1"
+        ]
+    },
+    "@voiceflow/npm-package-json-lint-config": {
+        "vuln_vers": [
+            "1.1.1"
+        ]
+    },
+    "@voiceflow/openai": {
+        "vuln_vers": [
+            "3.2.2",
+            "3.2.3"
+        ]
+    },
+    "@voiceflow/pino": {
+        "vuln_vers": [
+            "6.11.3",
+            "6.11.4"
+        ]
+    },
+    "@voiceflow/pino-pretty": {
+        "vuln_vers": [
+            "4.4.1",
+            "4.4.2"
+        ]
+    },
+    "@voiceflow/prettier-config": {
+        "vuln_vers": [
+            "1.10.1"
+        ]
+    },
+    "@voiceflow/react-chat": {
+        "vuln_vers": [
+            "1.65.4"
+        ]
+    },
+    "@voiceflow/runtime": {
+        "vuln_vers": [
+            "1.29.1",
+            "1.29.2"
+        ]
+    },
+    "@voiceflow/runtime-client-js": {
+        "vuln_vers": [
+            "1.17.2",
+            "1.17.3"
+        ]
+    },
+    "@voiceflow/sdk-runtime": {
+        "vuln_vers": [
+            "1.43.1",
+            "1.43.2"
+        ]
+    },
+    "@voiceflow/secrets-provider": {
+        "vuln_vers": [
+            "1.9.2"
+        ]
+    },
+    "@voiceflow/semantic-release-config": {
+        "vuln_vers": [
+            "1.4.1"
+        ]
+    },
+    "@voiceflow/serverless-plugin-typescript": {
+        "vuln_vers": [
+            "2.1.7",
+            "2.1.8"
+        ]
+    },
+    "@voiceflow/slate-serializer": {
+        "vuln_vers": [
+            "1.7.3",
+            "1.7.4"
+        ]
+    },
+    "@voiceflow/stitches-react": {
+        "vuln_vers": [
+            "2.3.2",
+            "2.3.3"
+        ]
+    },
+    "@voiceflow/storybook-config": {
+        "vuln_vers": [
+            "1.2.2",
+            "1.2.3"
+        ]
+    },
+    "@voiceflow/stylelint-config": {
+        "vuln_vers": [
+            "1.1.1"
+        ]
+    },
+    "@voiceflow/test-common": {
+        "vuln_vers": [
+            "2.1.1",
+            "2.1.2"
+        ]
+    },
+    "@voiceflow/tsconfig": {
+        "vuln_vers": [
+            "1.12.1"
+        ]
+    },
+    "@voiceflow/tsconfig-paths": {
+        "vuln_vers": [
+            "1.1.4",
+            "1.1.5"
+        ]
+    },
+    "@voiceflow/utils-designer": {
+        "vuln_vers": [
+            "1.74.20"
+        ]
+    },
+    "@voiceflow/verror": {
+        "vuln_vers": [
+            "1.1.4"
+        ]
+    },
+    "@voiceflow/vite-config": {
+        "vuln_vers": [
+            "2.6.2",
+            "2.6.3"
+        ]
+    },
+    "@voiceflow/vitest-config": {
+        "vuln_vers": [
+            "1.10.2",
+            "1.10.3"
+        ]
+    },
+    "@voiceflow/voice-types": {
+        "vuln_vers": [
+            "2.10.58",
+            "2.10.59"
+        ]
+    },
+    "@voiceflow/voiceflow-types": {
+        "vuln_vers": [
+            "3.32.45",
+            "3.32.46"
+        ]
+    },
+    "@voiceflow/widget": {
+        "vuln_vers": [
+            "1.7.18",
+            "1.7.19"
+        ]
+    },
+    "@zapier/ai-actions": {
+        "vuln_vers": [
+            "0.1.18",
+            "0.1.19",
+            "0.1.20"
+        ]
+    },
+    "@zapier/ai-actions-react": {
+        "vuln_vers": [
+            "0.1.12",
+            "0.1.13",
+            "0.1.14"
+        ]
+    },
+    "@zapier/babel-preset-zapier": {
+        "vuln_vers": [
+            "6.4.1",
+            "6.4.2",
+            "6.4.3"
+        ]
+    },
+    "@zapier/browserslist-config-zapier": {
+        "vuln_vers": [
+            "1.0.3",
+            "1.0.4",
+            "1.0.5"
+        ]
+    },
+    "@zapier/eslint-plugin-zapier": {
+        "vuln_vers": [
+            "11.0.3",
+            "11.0.4",
+            "11.0.5"
+        ]
+    },
+    "@zapier/mcp-integration": {
+        "vuln_vers": [
+            "3.0.1",
+            "3.0.2",
+            "3.0.3"
+        ]
+    },
+    "@zapier/secret-scrubber": {
+        "vuln_vers": [
+            "1.1.3",
+            "1.1.4",
+            "1.1.5"
+        ]
+    },
+    "@zapier/spectral-api-ruleset": {
+        "vuln_vers": [
+            "1.9.1",
+            "1.9.2",
+            "1.9.3"
+        ]
+    },
+    "@zapier/stubtree": {
+        "vuln_vers": [
+            "0.1.2",
+            "0.1.3",
+            "0.1.4"
+        ]
+    },
+    "@zapier/zapier-sdk": {
+        "vuln_vers": [
+            "0.15.5",
+            "0.15.6",
+            "0.15.7"
+        ]
+    },
+    "ai-crowl-shield": {
+        "vuln_vers": [
+            "1.0.7"
+        ]
+    },
+    "arc-cli-fc": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "asyncapi-preview": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "atrix": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "atrix-mongoose": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "automation_model": {
+        "vuln_vers": [
+            "1.0.491"
+        ]
+    },
+    "axios-builder": {
+        "vuln_vers": [
+            "1.2.1"
+        ]
+    },
+    "axios-cancelable": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "axios-timed": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "barebones-css": {
+        "vuln_vers": [
+            "1.1.3",
+            "1.1.4"
+        ]
+    },
+    "benmostyn-frame-print": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "bidirectional-adapter": {
+        "vuln_vers": [
+            "1.2.2",
+            "1.2.3",
+            "1.2.4"
+        ]
+    },
+    "blinqio-executions-cli": {
+        "vuln_vers": [
+            "1.0.41"
+        ]
+    },
+    "blob-to-base64": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "bool-expressions": {
+        "vuln_vers": [
+            "0.1.2"
+        ]
+    },
+    "bun-plugin-httpfile": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "bytecode-checker-cli": {
+        "vuln_vers": [
+            "1.0.10",
+            "1.0.11",
+            "1.0.8",
+            "1.0.9"
+        ]
+    },
+    "bytes-to-x": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "calc-loan-interest": {
+        "vuln_vers": [
+            "1.0.4"
+        ]
+    },
+    "capacitor-plugin-apptrackingios": {
+        "vuln_vers": [
+            "0.0.21"
+        ]
+    },
+    "capacitor-plugin-purchase": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "capacitor-plugin-scgssigninwithgoogle": {
+        "vuln_vers": [
+            "0.0.5"
+        ]
+    },
+    "capacitor-purchase-history": {
+        "vuln_vers": [
+            "0.0.10"
+        ]
+    },
+    "capacitor-voice-recorder-wav": {
+        "vuln_vers": [
+            "6.0.3"
+        ]
+    },
+    "chrome-extension-downloads": {
+        "vuln_vers": [
+            "0.0.3",
+            "0.0.4"
+        ]
+    },
+    "claude-token-updater": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "coinmarketcap-api": {
+        "vuln_vers": [
+            "3.1.2",
+            "3.1.3"
+        ]
+    },
+    "colors-regex": {
+        "vuln_vers": [
+            "2.0.1"
+        ]
+    },
+    "command-irail": {
+        "vuln_vers": [
+            "0.5.4"
+        ]
+    },
+    "compare-obj": {
+        "vuln_vers": [
+            "1.1.1",
+            "1.1.2"
+        ]
+    },
+    "composite-reducer": {
+        "vuln_vers": [
+            "1.0.2",
+            "1.0.3",
+            "1.0.4"
+        ]
+    },
+    "count-it-down": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "cpu-instructions": {
+        "vuln_vers": [
+            "0.0.14"
+        ]
+    },
+    "create-glee-app": {
+        "vuln_vers": [
+            "0.2.2",
+            "0.2.3"
+        ]
+    },
+    "create-hardhat3-app": {
+        "vuln_vers": [
+            "1.1.1",
+            "1.1.2",
+            "1.1.3",
+            "1.1.4"
+        ]
+    },
+    "create-mcp-use-app": {
+        "vuln_vers": [
+            "0.5.3",
+            "0.5.4"
+        ]
+    },
+    "crypto-addr-codec": {
+        "vuln_vers": [
+            "0.1.9"
+        ]
+    },
+    "css-dedoupe": {
+        "vuln_vers": [
+            "0.1.2"
+        ]
+    },
+    "dashboard-empty-state": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "designstudiouiux": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "devstart-cli": {
+        "vuln_vers": [
+            "1.0.6"
+        ]
+    },
+    "dialogflow-es": {
+        "vuln_vers": [
+            "1.1.2",
+            "1.1.3"
+        ]
+    },
+    "discord-bot-server": {
+        "vuln_vers": [
+            "0.1.2"
+        ]
+    },
+    "docusaurus-plugin-vanilla-extract": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "dont-go": {
+        "vuln_vers": [
+            "1.1.2"
+        ]
+    },
+    "dotnet-template": {
+        "vuln_vers": [
+            "0.0.3",
+            "0.0.4"
+        ]
+    },
+    "drop-events-on-property-plugin": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "email-deliverability-tester": {
+        "vuln_vers": [
+            "1.1.1"
+        ]
+    },
+    "enforce-branch-name": {
+        "vuln_vers": [
+            "1.1.3"
+        ]
+    },
+    "esbuild-plugin-brotli": {
+        "vuln_vers": [
+            "0.2.1"
+        ]
+    },
+    "esbuild-plugin-eta": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "esbuild-plugin-httpfile": {
+        "vuln_vers": [
+            "0.4.1"
+        ]
+    },
+    "eslint-config-nitpicky": {
+        "vuln_vers": [
+            "4.0.1"
+        ]
+    },
+    "eslint-config-trigo": {
+        "vuln_vers": [
+            "22.0.2"
+        ]
+    },
+    "eslint-config-zeallat-base": {
+        "vuln_vers": [
+            "1.0.4"
+        ]
+    },
+    "ethereum-ens": {
+        "vuln_vers": [
+            "0.8.1"
+        ]
+    },
+    "evm-checkcode-cli": {
+        "vuln_vers": [
+            "1.0.12",
+            "1.0.13",
+            "1.0.14",
+            "1.0.15"
+        ]
+    },
+    "exact-ticker": {
+        "vuln_vers": [
+            "0.3.5"
+        ]
+    },
+    "expo-audio-session": {
+        "vuln_vers": [
+            "0.2.1"
+        ]
+    },
+    "expressos": {
+        "vuln_vers": [
+            "1.1.3"
+        ]
+    },
+    "fat-fingered": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "feature-flip": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "firestore-search-engine": {
+        "vuln_vers": [
+            "1.2.3"
+        ]
+    },
+    "fittxt": {
+        "vuln_vers": [
+            "1.0.2",
+            "1.0.3"
+        ]
+    },
+    "flapstacks": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "flatten-unflatten": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "formik-error-focus": {
+        "vuln_vers": [
+            "2.0.1"
+        ]
+    },
+    "formik-store": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "fuzzy-finder": {
+        "vuln_vers": [
+            "1.0.5",
+            "1.0.6"
+        ]
+    },
+    "gate-evm-check-code2": {
+        "vuln_vers": [
+            "2.0.3",
+            "2.0.4",
+            "2.0.5",
+            "2.0.6"
+        ]
+    },
+    "gate-evm-tools-test": {
+        "vuln_vers": [
+            "1.0.5",
+            "1.0.6",
+            "1.0.7",
+            "1.0.8"
+        ]
+    },
+    "gatsby-plugin-cname": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "generator-meteor-stock": {
+        "vuln_vers": [
+            "0.1.6"
+        ]
+    },
+    "generator-ng-itobuz": {
+        "vuln_vers": [
+            "0.0.15"
+        ]
+    },
+    "get-them-args": {
+        "vuln_vers": [
+            "1.3.3"
+        ]
+    },
+    "github-action-for-generator": {
+        "vuln_vers": [
+            "2.1.27",
+            "2.1.28"
+        ]
+    },
+    "gitsafe": {
+        "vuln_vers": [
+            "1.0.5"
+        ]
+    },
+    "go-template": {
+        "vuln_vers": [
+            "0.1.8",
+            "0.1.9"
+        ]
+    },
+    "gulp-inject-envs": {
+        "vuln_vers": [
+            "1.2.1",
+            "1.2.2"
+        ]
+    },
+    "haufe-axera-api-client": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "hope-mapboxdraw": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "hopedraw": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "hover-design-prototype": {
+        "vuln_vers": [
+            "0.0.5"
+        ]
+    },
+    "httpness": {
+        "vuln_vers": [
+            "1.0.2",
+            "1.0.3"
+        ]
+    },
+    "hyper-fullfacing": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "hyperterm-hipster": {
+        "vuln_vers": [
+            "1.0.7"
+        ]
+    },
+    "image-to-uri": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "invo": {
+        "vuln_vers": [
+            "0.2.2"
+        ]
+    },
+    "iron-shield-miniapp": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "ito-button": {
+        "vuln_vers": [
+            "8.0.3"
+        ]
+    },
+    "itobuz-angular": {
+        "vuln_vers": [
+            "0.0.1"
+        ]
+    },
+    "itobuz-angular-auth": {
+        "vuln_vers": [
+            "8.0.11"
+        ]
+    },
+    "itobuz-angular-button": {
+        "vuln_vers": [
+            "8.0.11"
+        ]
+    },
+    "jacob-zuma": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "jan-browser": {
+        "vuln_vers": [
+            "0.13.1"
+        ]
+    },
+    "jquery-bindings": {
+        "vuln_vers": [
+            "1.1.2",
+            "1.1.3"
+        ]
+    },
+    "jsonsurge": {
+        "vuln_vers": [
+            "1.0.7"
+        ]
+    },
+    "just-toasty": {
+        "vuln_vers": [
+            "1.7.1"
+        ]
+    },
+    "kill-port": {
+        "vuln_vers": [
+            "2.0.2",
+            "2.0.3"
+        ]
+    },
+    "korea-administrative-area-geo-json-util": {
+        "vuln_vers": [
+            "1.0.7"
+        ]
+    },
+    "kwami": {
+        "vuln_vers": [
+            "1.5.10",
+            "1.5.9"
+        ]
+    },
+    "lang-codes": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "license-o-matic": {
+        "vuln_vers": [
+            "1.2.1",
+            "1.2.2"
+        ]
+    },
+    "lint-staged-imagemin": {
+        "vuln_vers": [
+            "1.3.1",
+            "1.3.2"
+        ]
+    },
+    "lite-serper-mcp-server": {
+        "vuln_vers": [
+            "0.2.2"
+        ]
+    },
+    "luno-api": {
+        "vuln_vers": [
+            "1.2.3"
+        ]
+    },
+    "manual-billing-system-miniapp-api": {
+        "vuln_vers": [
+            "1.3.1"
+        ]
+    },
+    "mcp-use": {
+        "vuln_vers": [
+            "1.4.2",
+            "1.4.3"
+        ]
+    },
+    "medusa-plugin-announcement": {
+        "vuln_vers": [
+            "0.0.3"
+        ]
+    },
+    "medusa-plugin-logs": {
+        "vuln_vers": [
+            "0.0.17"
+        ]
+    },
+    "medusa-plugin-momo": {
+        "vuln_vers": [
+            "0.0.68"
+        ]
+    },
+    "medusa-plugin-product-reviews-kvy": {
+        "vuln_vers": [
+            "0.0.4"
+        ]
+    },
+    "medusa-plugin-zalopay": {
+        "vuln_vers": [
+            "0.0.40"
+        ]
+    },
+    "mod10-check-digit": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "mon-package-react-typescript": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "n8n-nodes-tmdb": {
+        "vuln_vers": [
+            "0.5.1"
+        ]
+    },
+    "n8n-nodes-vercel-ai-sdk": {
+        "vuln_vers": [
+            "0.1.7"
+        ]
+    },
+    "n8n-nodes-viral-app": {
+        "vuln_vers": [
+            "0.2.5"
+        ]
+    },
+    "nanoreset": {
+        "vuln_vers": [
+            "7.0.1",
+            "7.0.2"
+        ]
+    },
+    "next-circular-dependency": {
+        "vuln_vers": [
+            "1.0.2",
+            "1.0.3"
+        ]
+    },
+    "next-simple-google-analytics": {
+        "vuln_vers": [
+            "1.1.1",
+            "1.1.2"
+        ]
+    },
+    "next-styled-nprogress": {
+        "vuln_vers": [
+            "1.0.4",
+            "1.0.5"
+        ]
+    },
+    "ngx-useful-swiper-prosenjit": {
+        "vuln_vers": [
+            "9.0.2"
+        ]
+    },
+    "ngx-wooapi": {
+        "vuln_vers": [
+            "12.0.1"
+        ]
+    },
+    "normal-store": {
+        "vuln_vers": [
+            "1.3.1",
+            "1.3.2",
+            "1.3.3"
+        ]
+    },
+    "obj-to-css": {
+        "vuln_vers": [
+            "1.0.2",
+            "1.0.3"
+        ]
+    },
+    "okta-react-router-6": {
+        "vuln_vers": [
+            "5.0.1"
+        ]
+    },
+    "open2internet": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "orbit-boxicons": {
+        "vuln_vers": [
+            "2.1.3"
+        ]
+    },
+    "orbit-nebula-draw-tools": {
+        "vuln_vers": [
+            "1.0.10"
+        ]
+    },
+    "orbit-nebula-editor": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "orbit-soap": {
+        "vuln_vers": [
+            "0.43.13"
+        ]
+    },
+    "orchestrix": {
+        "vuln_vers": [
+            "12.1.2"
+        ]
+    },
+    "package-tester": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "parcel-plugin-asset-copier": {
+        "vuln_vers": [
+            "1.1.2",
+            "1.1.3"
+        ]
+    },
+    "pdf-annotation": {
+        "vuln_vers": [
+            "0.0.2"
+        ]
+    },
+    "piclite": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "pico-uid": {
+        "vuln_vers": [
+            "1.0.3",
+            "1.0.4"
+        ]
+    },
+    "pkg-readme": {
+        "vuln_vers": [
+            "1.1.1"
+        ]
+    },
+    "poper-react-sdk": {
+        "vuln_vers": [
+            "0.1.2"
+        ]
+    },
+    "posthog-docusaurus": {
+        "vuln_vers": [
+            "2.0.6"
+        ]
+    },
+    "posthog-js": {
+        "vuln_vers": [
+            "1.297.3"
+        ]
+    },
+    "posthog-node": {
+        "vuln_vers": [
+            "4.18.1",
+            "5.13.3"
+        ]
+    },
+    "posthog-plugin-hello-world": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "posthog-react-native": {
+        "vuln_vers": [
+            "4.11.1",
+            "4.12.5"
+        ]
+    },
+    "posthog-react-native-session-replay": {
+        "vuln_vers": [
+            "1.2.2"
+        ]
+    },
+    "prime-one-table": {
+        "vuln_vers": [
+            "0.0.19"
+        ]
+    },
+    "prompt-eng": {
+        "vuln_vers": [
+            "1.0.50"
+        ]
+    },
+    "prompt-eng-server": {
+        "vuln_vers": [
+            "1.0.18"
+        ]
+    },
+    "puny-req": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "ra-auth-firebase": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "ra-data-firebase": {
+        "vuln_vers": [
+            "1.0.7",
+            "1.0.8"
+        ]
+    },
+    "react-component-taggers": {
+        "vuln_vers": [
+            "0.1.9"
+        ]
+    },
+    "react-element-prompt-inspector": {
+        "vuln_vers": [
+            "0.1.18"
+        ]
+    },
+    "react-favic": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "react-hook-form-persist": {
+        "vuln_vers": [
+            "3.0.1",
+            "3.0.2"
+        ]
+    },
+    "react-jam-icons": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "react-keycloak-context": {
+        "vuln_vers": [
+            "1.0.8",
+            "1.0.9"
+        ]
+    },
+    "react-library-setup": {
+        "vuln_vers": [
+            "0.0.6"
+        ]
+    },
+    "react-linear-loader": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "react-micromodal.js": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "react-native-datepicker-modal": {
+        "vuln_vers": [
+            "1.3.1",
+            "1.3.2"
+        ]
+    },
+    "react-native-email": {
+        "vuln_vers": [
+            "2.1.1",
+            "2.1.2"
+        ]
+    },
+    "react-native-fetch": {
+        "vuln_vers": [
+            "2.0.1",
+            "2.0.2"
+        ]
+    },
+    "react-native-get-pixel-dimensions": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "react-native-google-maps-directions": {
+        "vuln_vers": [
+            "2.1.2"
+        ]
+    },
+    "react-native-jam-icons": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "react-native-log-level": {
+        "vuln_vers": [
+            "1.2.1",
+            "1.2.2"
+        ]
+    },
+    "react-native-modest-checkbox": {
+        "vuln_vers": [
+            "3.3.1"
+        ]
+    },
+    "react-native-modest-storage": {
+        "vuln_vers": [
+            "2.1.1"
+        ]
+    },
+    "react-native-phone-call": {
+        "vuln_vers": [
+            "1.2.1",
+            "1.2.2"
+        ]
+    },
+    "react-native-retriable-fetch": {
+        "vuln_vers": [
+            "2.0.1",
+            "2.0.2"
+        ]
+    },
+    "react-native-use-modal": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "react-native-view-finder": {
+        "vuln_vers": [
+            "1.2.1",
+            "1.2.2"
+        ]
+    },
+    "react-native-websocket": {
+        "vuln_vers": [
+            "1.0.3",
+            "1.0.4"
+        ]
+    },
+    "react-native-worklet-functions": {
+        "vuln_vers": [
+            "3.3.3"
+        ]
+    },
+    "react-qr-image": {
+        "vuln_vers": [
+            "1.1.1"
+        ]
+    },
+    "redux-forge": {
+        "vuln_vers": [
+            "2.5.3"
+        ]
+    },
+    "redux-router-kit": {
+        "vuln_vers": [
+            "1.2.2",
+            "1.2.3",
+            "1.2.4"
+        ]
+    },
+    "rollup-plugin-httpfile": {
+        "vuln_vers": [
+            "0.2.1"
+        ]
+    },
+    "sa-company-registration-number-regex": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "sa-id-gen": {
+        "vuln_vers": [
+            "1.0.4",
+            "1.0.5"
+        ]
+    },
+    "samesame": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "scgs-capacitor-subscribe": {
+        "vuln_vers": [
+            "1.0.11"
+        ]
+    },
+    "scgsffcreator": {
+        "vuln_vers": [
+            "1.0.5"
+        ]
+    },
+    "selenium-session": {
+        "vuln_vers": [
+            "1.0.5"
+        ]
+    },
+    "selenium-session-client": {
+        "vuln_vers": [
+            "1.0.4"
+        ]
+    },
+    "set-nested-prop": {
+        "vuln_vers": [
+            "2.0.1",
+            "2.0.2"
+        ]
+    },
+    "shelf-jwt-sessions": {
+        "vuln_vers": [
+            "0.1.2"
+        ]
+    },
+    "shell-exec": {
+        "vuln_vers": [
+            "1.1.3",
+            "1.1.4"
+        ]
+    },
+    "shinhan-limit-scrap": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "skills-use": {
+        "vuln_vers": [
+            "0.1.1",
+            "0.1.2"
+        ]
+    },
+    "solomon-api-stories": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "solomon-v3-stories": {
+        "vuln_vers": [
+            "1.15.6"
+        ]
+    },
+    "solomon-v3-ui-wrapper": {
+        "vuln_vers": [
+            "1.6.1"
+        ]
+    },
+    "sort-by-distance": {
+        "vuln_vers": [
+            "2.0.1"
+        ]
+    },
+    "south-african-id-info": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "stat-fns": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "stoor": {
+        "vuln_vers": [
+            "2.3.2"
+        ]
+    },
+    "super-commit": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "svelte-autocomplete-select": {
+        "vuln_vers": [
+            "1.1.1"
+        ]
+    },
+    "svelte-toasty": {
+        "vuln_vers": [
+            "1.1.2",
+            "1.1.3"
+        ]
+    },
+    "tanstack-shadcn-table": {
+        "vuln_vers": [
+            "1.1.5"
+        ]
+    },
+    "tcsp": {
+        "vuln_vers": [
+            "2.0.2"
+        ]
+    },
+    "tcsp-draw-test": {
+        "vuln_vers": [
+            "1.0.5"
+        ]
+    },
+    "tcsp-test-vd": {
+        "vuln_vers": [
+            "2.4.4"
+        ]
+    },
+    "template-lib": {
+        "vuln_vers": [
+            "1.1.3",
+            "1.1.4"
+        ]
+    },
+    "template-micro-service": {
+        "vuln_vers": [
+            "1.0.2",
+            "1.0.3"
+        ]
+    },
+    "tenacious-fetch": {
+        "vuln_vers": [
+            "2.3.2",
+            "2.3.3"
+        ]
+    },
+    "test-foundry-app": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2",
+            "1.0.3",
+            "1.0.4"
+        ]
+    },
+    "test-hardhat-app": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2",
+            "1.0.3",
+            "1.0.4"
+        ]
+    },
+    "test23112222-api": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "tiaan": {
+        "vuln_vers": [
+            "1.0.2"
+        ]
+    },
+    "token.js-fork": {
+        "vuln_vers": [
+            "0.7.32"
+        ]
+    },
+    "trigo-react-app": {
+        "vuln_vers": [
+            "4.1.2"
+        ]
+    },
+    "typefence": {
+        "vuln_vers": [
+            "1.2.2",
+            "1.2.3"
+        ]
+    },
+    "typeorm-orbit": {
+        "vuln_vers": [
+            "0.2.27"
+        ]
+    },
+    "undefsafe-typed": {
+        "vuln_vers": [
+            "1.0.4"
+        ]
+    },
+    "uplandui": {
+        "vuln_vers": [
+            "0.5.4"
+        ]
+    },
+    "upload-to-play-store": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "url-encode-decode": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2"
+        ]
+    },
+    "use-unsaved-changes": {
+        "vuln_vers": [
+            "1.0.9"
+        ]
+    },
+    "valid-south-african-id": {
+        "vuln_vers": [
+            "1.0.3"
+        ]
+    },
+    "vf-oss-template": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2",
+            "1.0.3"
+        ]
+    },
+    "vite-plugin-httpfile": {
+        "vuln_vers": [
+            "0.2.1"
+        ]
+    },
+    "web-scraper-mcp": {
+        "vuln_vers": [
+            "1.1.4"
+        ]
+    },
+    "web-types-htmx": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "web-types-lit": {
+        "vuln_vers": [
+            "0.1.1"
+        ]
+    },
+    "webpack-loader-httpfile": {
+        "vuln_vers": [
+            "0.2.1"
+        ]
+    },
+    "wellness-expert-ng-gallery": {
+        "vuln_vers": [
+            "5.1.1"
+        ]
+    },
+    "wenk": {
+        "vuln_vers": [
+            "1.0.10",
+            "1.0.9"
+        ]
+    },
+    "zapier-async-storage": {
+        "vuln_vers": [
+            "1.0.1",
+            "1.0.2",
+            "1.0.3"
+        ]
+    },
+    "zapier-platform-cli": {
+        "vuln_vers": [
+            "18.0.2",
+            "18.0.3",
+            "18.0.4"
+        ]
+    },
+    "zapier-platform-core": {
+        "vuln_vers": [
+            "18.0.2",
+            "18.0.3",
+            "18.0.4"
+        ]
+    },
+    "zapier-platform-legacy-scripting-runner": {
+        "vuln_vers": [
+            "4.0.2",
+            "4.0.3",
+            "4.0.4"
+        ]
+    },
+    "zapier-platform-schema": {
+        "vuln_vers": [
+            "18.0.2",
+            "18.0.3",
+            "18.0.4"
+        ]
+    },
+    "zapier-scripts": {
+        "vuln_vers": [
+            "7.8.3",
+            "7.8.4"
+        ]
+    },
+    "zuper-cli": {
+        "vuln_vers": [
+            "1.0.1"
+        ]
+    },
+    "zuper-sdk": {
+        "vuln_vers": [
+            "1.0.57"
+        ]
+    },
+    "zuper-stream": {
+        "vuln_vers": [
+            "2.0.9"
+        ]
+    }
+}

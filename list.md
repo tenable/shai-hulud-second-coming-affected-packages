@@ -1,0 +1,804 @@
+| Package Name | Vulnerable Versions |
+| :--- | :--- |
+| @ahmedhfarag/ngx-perfect-scrollbar | 20.0.20 |
+| @ahmedhfarag/ngx-virtual-scroller | 4.0.4 |
+| @art-ws/common | 2.0.28 |
+| @art-ws/config-eslint | 2.0.4, 2.0.5 |
+| @art-ws/config-ts | 2.0.7, 2.0.8 |
+| @art-ws/db-context | 2.0.24 |
+| @art-ws/di | 2.0.28, 2.0.32 |
+| @art-ws/di-node | 2.0.13 |
+| @art-ws/eslint | 1.0.5, 1.0.6 |
+| @art-ws/fastify-http-server | 2.0.24, 2.0.27 |
+| @art-ws/http-server | 2.0.21, 2.0.25 |
+| @art-ws/openapi | 0.1.12, 0.1.9 |
+| @art-ws/package-base | 1.0.5, 1.0.6 |
+| @art-ws/prettier | 1.0.5, 1.0.6 |
+| @art-ws/slf | 2.0.15, 2.0.22 |
+| @art-ws/ssl-info | 1.0.10, 1.0.9 |
+| @art-ws/web-app | 1.0.3, 1.0.4 |
+| @crowdstrike/commitlint | 8.1.1, 8.1.2 |
+| @crowdstrike/falcon-shoelace | 0.4.1, 0.4.2 |
+| @crowdstrike/foundry-js | 0.19.1, 0.19.2 |
+| @crowdstrike/glide-core | 0.34.2, 0.34.3 |
+| @crowdstrike/logscale-dashboard | 1.205.1, 1.205.2 |
+| @crowdstrike/logscale-file-editor | 1.205.1, 1.205.2 |
+| @crowdstrike/logscale-parser-edit | 1.205.1, 1.205.2 |
+| @crowdstrike/logscale-search | 1.205.1, 1.205.2 |
+| @crowdstrike/tailwind-toucan-base | 5.0.1, 5.0.2 |
+| @ctrl/deluge | 7.2.1, 7.2.2 |
+| @ctrl/golang-template | 1.4.2, 1.4.3 |
+| @ctrl/magnet-link | 4.0.3, 4.0.4 |
+| @ctrl/ngx-codemirror | 7.0.1, 7.0.2 |
+| @ctrl/ngx-csv | 6.0.1, 6.0.2 |
+| @ctrl/ngx-emoji-mart | 9.2.1, 9.2.2 |
+| @ctrl/ngx-rightclick | 4.0.1, 4.0.2 |
+| @ctrl/qbittorrent | 9.7.1, 9.7.2 |
+| @ctrl/react-adsense | 2.0.1, 2.0.2 |
+| @ctrl/shared-torrent | 6.3.1, 6.3.2 |
+| @ctrl/tinycolor | 4.1.1, 4.1.2 |
+| @ctrl/torrent-file | 4.1.1, 4.1.2 |
+| @ctrl/transmission | 7.3.1 |
+| @ctrl/ts-base32 | 4.0.1, 4.0.2 |
+| @hestjs/core | 0.2.1 |
+| @hestjs/cqrs | 0.1.6 |
+| @hestjs/demo | 0.1.2 |
+| @hestjs/eslint-config | 0.1.2 |
+| @hestjs/logger | 0.1.6 |
+| @hestjs/scalar | 0.1.7 |
+| @hestjs/validation | 0.1.6 |
+| @nativescript-community/arraybuffers | 1.1.6, 1.1.7, 1.1.8 |
+| @nativescript-community/gesturehandler | 2.0.35 |
+| @nativescript-community/perms | 3.0.5, 3.0.6, 3.0.7, 3.0.8, 3.0.9 |
+| @nativescript-community/sentry | 4.6.43 |
+| @nativescript-community/sqlite | 3.5.2, 3.5.3, 3.5.4, 3.5.5 |
+| @nativescript-community/text | 1.6.10, 1.6.11, 1.6.12, 1.6.13, 1.6.9 |
+| @nativescript-community/typeorm | 0.2.30, 0.2.31, 0.2.32, 0.2.33 |
+| @nativescript-community/ui-collectionview | 6.0.6 |
+| @nativescript-community/ui-document-picker | 1.1.27, 1.1.28 |
+| @nativescript-community/ui-drawer | 0.1.30 |
+| @nativescript-community/ui-image | 4.5.6 |
+| @nativescript-community/ui-label | 1.3.35, 1.3.36, 1.3.37 |
+| @nativescript-community/ui-material-bottom-navigation | 7.2.72, 7.2.73, 7.2.74, 7.2.75 |
+| @nativescript-community/ui-material-bottomsheet | 7.2.72 |
+| @nativescript-community/ui-material-core | 7.2.72, 7.2.73, 7.2.74, 7.2.75, 7.2.76 |
+| @nativescript-community/ui-material-core-tabs | 7.2.72, 7.2.73, 7.2.74, 7.2.75, 7.2.76 |
+| @nativescript-community/ui-material-ripple | 7.2.72, 7.2.73, 7.2.74, 7.2.75 |
+| @nativescript-community/ui-material-tabs | 7.2.72, 7.2.73, 7.2.74, 7.2.75 |
+| @nativescript-community/ui-pager | 14.1.36, 14.1.37, 14.1.38 |
+| @nativescript-community/ui-pulltorefresh | 2.5.4, 2.5.5, 2.5.6, 2.5.7 |
+| @nexe/config-manager | 0.1.1 |
+| @nexe/eslint-config | 0.1.1 |
+| @nexe/logger | 0.1.3 |
+| @nstudio/angular | 20.0.4, 20.0.5, 20.0.6 |
+| @nstudio/focus | 20.0.4, 20.0.5, 20.0.6 |
+| @nstudio/nativescript-checkbox | 2.0.6, 2.0.7, 2.0.8, 2.0.9 |
+| @nstudio/nativescript-loading-indicator | 5.0.1, 5.0.2, 5.0.3, 5.0.4 |
+| @nstudio/ui-collectionview | 5.1.11, 5.1.12, 5.1.13, 5.1.14 |
+| @nstudio/web | 20.0.4 |
+| @nstudio/web-angular | 20.0.4 |
+| @nstudio/xplat | 20.0.5, 20.0.6, 20.0.7 |
+| @nstudio/xplat-utils | 20.0.5, 20.0.6, 20.0.7 |
+| @operato/board | 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48, 9.0.49, 9.0.50, 9.0.51 |
+| @operato/data-grist | 9.0.29, 9.0.35, 9.0.36, 9.0.37 |
+| @operato/graphql | 9.0.22, 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48, 9.0.49, 9.0.50, 9.0.51 |
+| @operato/headroom | 9.0.2, 9.0.35, 9.0.36, 9.0.37 |
+| @operato/help | 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48, 9.0.49, 9.0.50, 9.0.51 |
+| @operato/i18n | 9.0.35, 9.0.36, 9.0.37 |
+| @operato/input | 9.0.27, 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48 |
+| @operato/layout | 9.0.35, 9.0.36, 9.0.37 |
+| @operato/popup | 9.0.22, 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48, 9.0.49, 9.0.50, 9.0.51 |
+| @operato/pull-to-refresh | 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47 |
+| @operato/shell | 9.0.22, 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39 |
+| @operato/styles | 9.0.2, 9.0.35, 9.0.36, 9.0.37 |
+| @operato/utils | 9.0.22, 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48, 9.0.49, 9.0.50, 9.0.51 |
+| @rxap/ngx-bootstrap | 19.0.3, 19.0.4 |
+| @teriyakibomb/ember-velcro | 2.2.1 |
+| @teselagen/bio-parsers | 0.4.30 |
+| @teselagen/bounce-loader | 0.3.16, 0.3.17 |
+| @teselagen/file-utils | 0.3.22 |
+| @teselagen/liquibase-tools | 0.4.1 |
+| @teselagen/ove | 0.7.40 |
+| @teselagen/range-utils | 0.3.14, 0.3.15 |
+| @teselagen/react-list | 0.8.19, 0.8.20 |
+| @teselagen/react-table | 6.10.19, 6.10.20, 6.10.22 |
+| @teselagen/sequence-utils | 0.3.34 |
+| @teselagen/ui | 0.9.10 |
+| @thangved/callback-window | 1.1.4 |
+| @things-factory/attachment-base | 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48, 9.0.49, 9.0.50, 9.0.51, 9.0.52, 9.0.53, 9.0.54, 9.0.55 |
+| @things-factory/auth-base | 9.0.42, 9.0.43, 9.0.44, 9.0.45 |
+| @things-factory/email-base | 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48, 9.0.49, 9.0.50, 9.0.51, 9.0.52, 9.0.53, 9.0.54, 9.0.55, 9.0.56, 9.0.57, 9.0.58, 9.0.59 |
+| @things-factory/env | 9.0.42, 9.0.43, 9.0.44, 9.0.45 |
+| @things-factory/integration-base | 9.0.42, 9.0.43, 9.0.44, 9.0.45 |
+| @things-factory/integration-marketplace | 9.0.43, 9.0.44, 9.0.45 |
+| @things-factory/shell | 9.0.42, 9.0.43, 9.0.44, 9.0.45 |
+| @tnf-dev/api | 1.0.8 |
+| @tnf-dev/core | 1.0.8 |
+| @tnf-dev/js | 1.0.8 |
+| @tnf-dev/mui | 1.0.8 |
+| @tnf-dev/react | 1.0.8 |
+| @ui-ux-gang/devextreme-angular-rpk | 24.1.7 |
+| @yoobic/design-system | 6.5.17 |
+| @yoobic/jpeg-camera-es6 | 1.0.13 |
+| @yoobic/yobi | 8.7.53 |
+| airchief | 0.3.1 |
+| airpilot | 0.8.8 |
+| angulartics2 | 14.1.1, 14.1.2 |
+| another-shai | 1.0.1 |
+| browser-webdriver-downloader | 3.0.8 |
+| capacitor-notificationhandler | 0.0.2, 0.0.3 |
+| capacitor-plugin-healthapp | 0.0.2, 0.0.3 |
+| capacitor-plugin-ihealth | 1.1.8, 1.1.9 |
+| capacitor-plugin-vonage | 1.0.2, 1.0.3 |
+| capacitorandroidpermissions | 0.0.4, 0.0.5 |
+| config-cordova | 0.8.5 |
+| cordova-plugin-voxeet2 | 1.0.24 |
+| cordova-voxeet | 1.0.32 |
+| create-hest-app | 0.1.9 |
+| db-evo | 1.1.4, 1.1.5 |
+| devextreme-angular-rpk | 21.2.8 |
+| ember-browser-services | 5.0.2, 5.0.3 |
+| ember-headless-form | 1.1.2, 1.1.3 |
+| ember-headless-form-yup | 1.0.1 |
+| ember-headless-table | 2.1.5, 2.1.6 |
+| ember-url-hash-polyfill | 1.0.12, 1.0.13 |
+| ember-velcro | 2.2.1, 2.2.2 |
+| encounter-playground | 0.0.2, 0.0.3, 0.0.4, 0.0.5 |
+| eslint-config-crowdstrike | 11.0.2, 11.0.3 |
+| eslint-config-crowdstrike-node | 4.0.3, 4.0.4 |
+| eslint-config-teselagen | 6.1.7, 6.1.8 |
+| globalize-rpk | 1.7.4 |
+| graphql-sequelize-teselagen | 5.3.8, 5.3.9 |
+| html-to-base64-image | 1.0.2 |
+| json-rules-engine-simplified | 0.2.1, 0.2.4 |
+| jumpgate | 0.0.2 |
+| koa2-swagger-ui | 5.11.1, 5.11.2 |
+| mcfly-semantic-release | 1.3.1 |
+| mcp-knowledge-base | 0.0.2 |
+| mcp-knowledge-graph | 1.2.1 |
+| mobioffice-cli | 1.0.3 |
+| monorepo-next | 13.0.1, 13.0.2 |
+| mstate-angular | 0.4.4 |
+| mstate-cli | 0.4.7 |
+| mstate-dev-react | 1.1.1 |
+| mstate-react | 1.6.5 |
+| ng2-file-upload | 7.0.2, 7.0.3, 8.0.1, 8.0.2, 8.0.3, 9.0.1 |
+| ngx-bootstrap | 18.1.4, 19.0.3, 19.0.4, 20.0.3, 20.0.4, 20.0.5 |
+| ngx-color | 10.0.1, 10.0.2 |
+| ngx-toastr | 19.0.1, 19.0.2 |
+| ngx-trend | 8.0.1 |
+| ngx-ws | 1.1.5, 1.1.6 |
+| oradm-to-gql | 35.0.14, 35.0.15 |
+| oradm-to-sqlz | 1.1.2 |
+| ove-auto-annotate | 0.0.10, 0.0.9 |
+| pm2-gelf-json | 1.0.4, 1.0.5 |
+| printjs-rpk | 1.6.1 |
+| react-complaint-image | 0.0.32, 0.0.35 |
+| react-jsonschema-form-conditionals | 0.3.18, 0.3.21 |
+| react-jsonschema-form-extras | 1.0.4 |
+| react-jsonschema-rxnt-extras | 0.4.9 |
+| remark-preset-lint-crowdstrike | 4.0.1, 4.0.2 |
+| rxnt-authentication | 0.0.3, 0.0.4, 0.0.5, 0.0.6 |
+| rxnt-healthchecks-nestjs | 1.0.2, 1.0.3, 1.0.4, 1.0.5 |
+| rxnt-kue | 1.0.4, 1.0.5, 1.0.6, 1.0.7 |
+| swc-plugin-component-annotate | 1.9.1, 1.9.2 |
+| tbssnch | 1.0.2 |
+| teselagen-interval-tree | 1.1.2 |
+| tg-client-query-builder | 2.14.4, 2.14.5 |
+| tg-redbird | 1.3.1, 1.3.2 |
+| tg-seq-gen | 1.0.10, 1.0.9 |
+| thangved-react-grid | 1.0.3 |
+| ts-gaussian | 3.0.5, 3.0.6 |
+| ts-imports | 1.0.1, 1.0.2 |
+| tvi-cli | 0.1.5 |
+| ve-bamreader | 0.2.6, 0.2.7 |
+| ve-editor | 1.0.1, 1.0.2 |
+| verror-extra | 6.0.1 |
+| voip-callkit | 1.0.2, 1.0.3 |
+| wdio-web-reporter | 0.1.3 |
+| yargs-help-output | 5.0.3 |
+| yoo-styles | 6.0.326 |
+| 02-echo | 0.0.7 |
+| @accordproject/concerto-analysis | 3.24.1 |
+| @accordproject/concerto-linter | 3.24.1 |
+| @accordproject/concerto-linter-default-ruleset | 3.24.1 |
+| @accordproject/concerto-metamodel | 3.12.5 |
+| @accordproject/concerto-types | 3.24.1 |
+| @accordproject/markdown-it-cicero | 0.16.26 |
+| @accordproject/template-engine | 2.7.2 |
+| @actbase/css-to-react-native-transform | 1.0.3 |
+| @actbase/native | 0.1.32 |
+| @actbase/node-server | 1.1.19 |
+| @actbase/react-absolute | 0.8.3 |
+| @actbase/react-daum-postcode | 1.0.5 |
+| @actbase/react-kakaosdk | 0.9.27 |
+| @actbase/react-native-actionsheet | 1.0.3 |
+| @actbase/react-native-devtools | 0.1.3 |
+| @actbase/react-native-fast-image | 8.5.13 |
+| @actbase/react-native-kakao-channel | 1.0.2 |
+| @actbase/react-native-kakao-navi | 2.0.4 |
+| @actbase/react-native-less-transformer | 1.0.6 |
+| @actbase/react-native-naver-login | 1.0.1 |
+| @actbase/react-native-simple-video | 1.0.13 |
+| @actbase/react-native-tiktok | 1.1.3 |
+| @alaan/s2s-auth | 2.0.3 |
+| @alexcolls/nuxt-socket.io | 0.0.7, 0.0.8 |
+| @alexcolls/nuxt-ux | 0.6.1, 0.6.2 |
+| @antstackio/eslint-config-antstack | 0.0.3 |
+| @antstackio/express-graphql-proxy | 0.2.8 |
+| @antstackio/graphql-body-parser | 0.1.1 |
+| @antstackio/json-to-graphql | 1.0.3 |
+| @antstackio/shelbysam | 1.1.7 |
+| @aryanhussain/my-angular-lib | 0.0.23 |
+| @asyncapi/avro-schema-parser | 3.0.25, 3.0.26 |
+| @asyncapi/bundler | 0.6.5, 0.6.6 |
+| @asyncapi/cli | 4.1.2, 4.1.3 |
+| @asyncapi/converter | 1.6.3, 1.6.4 |
+| @asyncapi/diff | 0.5.1, 0.5.2 |
+| @asyncapi/dotnet-rabbitmq-template | 1.0.1, 1.0.2 |
+| @asyncapi/edavisualiser | 1.2.1, 1.2.2 |
+| @asyncapi/generator | 2.8.5, 2.8.6 |
+| @asyncapi/generator-components | 0.3.2, 0.3.3 |
+| @asyncapi/generator-helpers | 0.2.1, 0.2.2 |
+| @asyncapi/generator-react-sdk | 1.1.4, 1.1.5 |
+| @asyncapi/go-watermill-template | 0.2.76, 0.2.77 |
+| @asyncapi/html-template | 3.3.2, 3.3.3 |
+| @asyncapi/java-spring-cloud-stream-template | 0.13.5, 0.13.6 |
+| @asyncapi/java-spring-template | 1.6.1, 1.6.2 |
+| @asyncapi/java-template | 0.3.5, 0.3.6 |
+| @asyncapi/keeper | 0.0.2, 0.0.3 |
+| @asyncapi/markdown-template | 1.6.8, 1.6.9 |
+| @asyncapi/modelina | 5.10.3 |
+| @asyncapi/modelina-cli | 5.10.2, 5.10.3 |
+| @asyncapi/multi-parser | 2.2.1, 2.2.2 |
+| @asyncapi/nodejs-template | 3.0.5, 3.0.6 |
+| @asyncapi/nodejs-ws-template | 0.10.1, 0.10.2 |
+| @asyncapi/nunjucks-filters | 2.1.1, 2.1.2 |
+| @asyncapi/openapi-schema-parser | 3.0.25, 3.0.26 |
+| @asyncapi/optimizer | 1.0.5, 1.0.6 |
+| @asyncapi/parser | 3.4.1, 3.4.2 |
+| @asyncapi/php-template | 0.1.1, 0.1.2 |
+| @asyncapi/problem | 1.0.1, 1.0.2 |
+| @asyncapi/protobuf-schema-parser | 3.5.2, 3.5.3, 3.6.1 |
+| @asyncapi/python-paho-template | 0.2.14, 0.2.15 |
+| @asyncapi/react-component | 2.6.6, 2.6.7 |
+| @asyncapi/server-api | 0.16.24, 0.16.25 |
+| @asyncapi/specs | 6.8.3, 6.9.1 |
+| @asyncapi/studio | 1.0.2, 1.0.3 |
+| @asyncapi/web-component | 2.6.6, 2.6.7 |
+| @caretive/caret-cli | 0.0.2 |
+| @clausehq/flows-step-httprequest | 0.1.14 |
+| @clausehq/flows-step-jsontoxml | 0.1.14 |
+| @clausehq/flows-step-mqtt | 0.1.14 |
+| @clausehq/flows-step-sendgridemail | 0.1.14 |
+| @clausehq/flows-step-taskscreateurl | 0.1.14 |
+| @commute/bloom | 1.0.3 |
+| @commute/market-data | 1.0.2 |
+| @commute/market-data-chartjs | 2.3.1 |
+| @dev-blinq/ai-qa-logic | 1.0.19 |
+| @dev-blinq/blinqioclient | 1.0.21 |
+| @dev-blinq/cucumber-js | 1.0.131 |
+| @dev-blinq/cucumber_client | 1.0.738 |
+| @dev-blinq/ui-systems | 1.0.93 |
+| @ensdomains/address-encoder | 1.1.5 |
+| @ensdomains/blacklist | 1.0.1 |
+| @ensdomains/buffer | 0.1.2 |
+| @ensdomains/ccip-read-cf-worker | 0.0.4 |
+| @ensdomains/ccip-read-dns-gateway | 0.1.1 |
+| @ensdomains/ccip-read-router | 0.0.7 |
+| @ensdomains/ccip-read-worker-viem | 0.0.4 |
+| @ensdomains/content-hash | 3.0.1 |
+| @ensdomains/curvearithmetics | 1.0.1 |
+| @ensdomains/cypress-metamask | 1.2.1 |
+| @ensdomains/dnsprovejs | 0.5.3 |
+| @ensdomains/dnssec-oracle-anchors | 0.0.2 |
+| @ensdomains/dnssecoraclejs | 0.2.9 |
+| @ensdomains/durin | 0.1.2 |
+| @ensdomains/durin-middleware | 0.0.2 |
+| @ensdomains/ens-archived-contracts | 0.0.3 |
+| @ensdomains/ens-avatar | 1.0.4 |
+| @ensdomains/ens-contracts | 1.6.1 |
+| @ensdomains/ens-test-env | 1.0.2 |
+| @ensdomains/ens-validation | 0.1.1 |
+| @ensdomains/ensjs | 4.0.3 |
+| @ensdomains/ensjs-react | 0.0.5 |
+| @ensdomains/eth-ens-namehash | 2.0.16 |
+| @ensdomains/hackathon-registrar | 1.0.5 |
+| @ensdomains/hardhat-chai-matchers-viem | 0.1.15 |
+| @ensdomains/hardhat-toolbox-viem-extended | 0.0.6 |
+| @ensdomains/mock | 2.1.52 |
+| @ensdomains/name-wrapper | 1.0.1 |
+| @ensdomains/offchain-resolver-contracts | 0.2.2 |
+| @ensdomains/op-resolver-contracts | 0.0.2 |
+| @ensdomains/react-ens-address | 0.0.32 |
+| @ensdomains/renewal | 0.0.13 |
+| @ensdomains/renewal-widget | 0.1.10 |
+| @ensdomains/reverse-records | 1.0.1 |
+| @ensdomains/server-analytics | 0.0.2 |
+| @ensdomains/solsha1 | 0.0.4 |
+| @ensdomains/subdomain-registrar | 0.2.4 |
+| @ensdomains/test-utils | 1.3.1 |
+| @ensdomains/thorin | 0.6.51 |
+| @ensdomains/ui | 3.4.6 |
+| @ensdomains/unicode-confusables | 0.1.1 |
+| @ensdomains/unruggable-gateways | 0.0.3 |
+| @ensdomains/vite-plugin-i18next-loader | 4.0.4 |
+| @ensdomains/web3modal | 1.10.2 |
+| @everreal/react-charts | 2.0.2 |
+| @everreal/validate-esmoduleinterop-imports | 1.4.5 |
+| @everreal/web-analytics | 0.0.2 |
+| @faq-component/core | 0.0.4 |
+| @faq-component/react | 1.0.1 |
+| @fishingbooker/browser-sync-plugin | 1.0.5 |
+| @fishingbooker/react-loader | 1.0.7 |
+| @fishingbooker/react-pagination | 2.0.6 |
+| @fishingbooker/react-raty | 2.0.1 |
+| @fishingbooker/react-swiper | 0.1.5 |
+| @hapheus/n8n-nodes-pgp | 1.5.1 |
+| @hover-design/core | 0.0.1 |
+| @hover-design/react | 0.2.1 |
+| @ifelsedeveloper/protocol-contracts-svm-idl | 0.1.2 |
+| @ifings/design-system | 4.9.2 |
+| @ifings/metatron3 | 0.1.5 |
+| @kvytech/cli | 0.0.7 |
+| @kvytech/components | 0.0.2 |
+| @kvytech/habbit-e2e-test | 0.0.2 |
+| @kvytech/medusa-plugin-announcement | 0.0.8 |
+| @kvytech/medusa-plugin-management | 0.0.5 |
+| @kvytech/medusa-plugin-newsletter | 0.0.5 |
+| @kvytech/medusa-plugin-product-reviews | 0.0.9 |
+| @kvytech/medusa-plugin-promotion | 0.0.2 |
+| @kvytech/web | 0.0.2 |
+| @lessondesk/api-client | 9.12.2, 9.12.3 |
+| @lessondesk/babel-preset | 1.0.1 |
+| @lessondesk/electron-group-api-client | 1.0.3 |
+| @lessondesk/eslint-config | 1.4.2 |
+| @lessondesk/material-icons | 1.0.3 |
+| @lessondesk/react-table-context | 2.0.4 |
+| @lessondesk/schoolbus | 5.2.2, 5.2.3 |
+| @louisle2/core | 1.0.1 |
+| @louisle2/cortex-js | 0.1.6 |
+| @lpdjs/firestore-repo-service | 1.0.1 |
+| @markvivanco/app-version-checker | 1.0.2 |
+| @mcp-use/cli | 2.2.6, 2.2.7 |
+| @mcp-use/inspector | 0.6.2, 0.6.3 |
+| @mcp-use/mcp-use | 1.0.1, 1.0.2 |
+| @ntnx/passport-wso2 | 0.0.3 |
+| @ntnx/t | 0.0.101 |
+| @orbitgtbelgium/mapbox-gl-draw-cut-polygon-mode | 2.0.5 |
+| @orbitgtbelgium/mapbox-gl-draw-scale-rotate-mode | 1.1.1 |
+| @orbitgtbelgium/orbit-components | 1.2.9 |
+| @orbitgtbelgium/time-slider | 1.0.187 |
+| @osmanekrem/bmad | 1.0.6 |
+| @osmanekrem/error-handler | 1.2.2 |
+| @posthog/agent | 1.24.1 |
+| @posthog/ai | 7.1.2 |
+| @posthog/automatic-cohorts-plugin | 0.0.8 |
+| @posthog/bitbucket-release-tracker | 0.0.8 |
+| @posthog/cli | 0.5.15 |
+| @posthog/clickhouse | 1.7.1 |
+| @posthog/core | 1.5.6 |
+| @posthog/currency-normalization-plugin | 0.0.8 |
+| @posthog/customerio-plugin | 0.0.8 |
+| @posthog/databricks-plugin | 0.0.8 |
+| @posthog/drop-events-on-property-plugin | 0.0.8 |
+| @posthog/event-sequence-timer-plugin | 0.0.8 |
+| @posthog/filter-out-plugin | 0.0.8 |
+| @posthog/first-time-event-tracker | 0.0.8 |
+| @posthog/geoip-plugin | 0.0.8 |
+| @posthog/github-release-tracking-plugin | 0.0.8 |
+| @posthog/gitub-star-sync-plugin | 0.0.8 |
+| @posthog/heartbeat-plugin | 0.0.8 |
+| @posthog/hedgehog-mode | 0.0.42 |
+| @posthog/icons | 0.36.1 |
+| @posthog/ingestion-alert-plugin | 0.0.8 |
+| @posthog/intercom-plugin | 0.0.8 |
+| @posthog/kinesis-plugin | 0.0.8 |
+| @posthog/laudspeaker-plugin | 0.0.8 |
+| @posthog/lemon-ui | 0.0.1 |
+| @posthog/maxmind-plugin | 0.1.6 |
+| @posthog/migrator3000-plugin | 0.0.8 |
+| @posthog/netdata-event-processing | 0.0.8 |
+| @posthog/nextjs | 0.0.3 |
+| @posthog/nextjs-config | 1.5.1 |
+| @posthog/nuxt | 1.2.9 |
+| @posthog/pagerduty-plugin | 0.0.8 |
+| @posthog/piscina | 3.2.1 |
+| @posthog/plugin-contrib | 0.0.6 |
+| @posthog/plugin-server | 1.10.8 |
+| @posthog/plugin-unduplicates | 0.0.8 |
+| @posthog/postgres-plugin | 0.0.8 |
+| @posthog/react-rrweb-player | 1.1.4 |
+| @posthog/rrdom | 0.0.31 |
+| @posthog/rrweb | 0.0.31 |
+| @posthog/rrweb-player | 0.0.31 |
+| @posthog/rrweb-record | 0.0.31 |
+| @posthog/rrweb-replay | 0.0.19 |
+| @posthog/rrweb-snapshot | 0.0.31 |
+| @posthog/rrweb-utils | 0.0.31 |
+| @posthog/sendgrid-plugin | 0.0.8 |
+| @posthog/siphash | 1.1.2 |
+| @posthog/snowflake-export-plugin | 0.0.8 |
+| @posthog/taxonomy-plugin | 0.0.8 |
+| @posthog/twilio-plugin | 0.0.8 |
+| @posthog/twitter-followers-plugin | 0.0.8 |
+| @posthog/url-normalizer-plugin | 0.0.8 |
+| @posthog/variance-plugin | 0.0.8 |
+| @posthog/web-dev-server | 1.0.5 |
+| @posthog/wizard | 1.18.1 |
+| @posthog/zendesk-plugin | 0.0.8 |
+| @postman/csv-parse | 4.0.3, 4.0.5 |
+| @postman/final-node-keytar | 7.9.1, 7.9.2, 7.9.3 |
+| @postman/mcp-ui-client | 5.5.1, 5.5.3 |
+| @postman/node-keytar | 7.9.4, 7.9.6 |
+| @postman/pm-bin-linux-x64 | 1.24.3, 1.24.4, 1.24.5 |
+| @postman/pm-bin-macos-arm64 | 1.24.3, 1.24.5 |
+| @postman/pm-bin-macos-x64 | 1.24.3, 1.24.5 |
+| @postman/pm-bin-windows-x64 | 1.24.3, 1.24.5 |
+| @postman/postman-collection-fork | 4.3.3, 4.3.5 |
+| @postman/postman-mcp-cli | 1.0.3, 1.0.4, 1.0.5 |
+| @postman/postman-mcp-server | 2.4.10, 2.4.12 |
+| @postman/pretty-ms | 6.1.1, 6.1.2, 6.1.3 |
+| @postman/secret-scanner-wasm | 2.1.3, 2.1.4 |
+| @postman/tunnel-agent | 0.6.5, 0.6.7 |
+| @postman/wdio-allure-reporter | 0.0.7, 0.0.9 |
+| @postman/wdio-junit-reporter | 0.0.4, 0.0.5, 0.0.6 |
+| @pradhumngautam/common-app | 1.0.2 |
+| @pruthvi21/use-debounce | 1.0.3 |
+| @quick-start-soft/quick-document-translator | 1.4.2511142126 |
+| @quick-start-soft/quick-git-clean-markdown | 1.4.2511142126 |
+| @quick-start-soft/quick-markdown | 1.4.2511142126 |
+| @quick-start-soft/quick-markdown-compose | 1.4.2506300029 |
+| @quick-start-soft/quick-markdown-image | 1.4.2511142126 |
+| @quick-start-soft/quick-markdown-print | 1.4.2511142126 |
+| @quick-start-soft/quick-markdown-translator | 1.4.2509202331 |
+| @quick-start-soft/quick-remove-image-background | 1.4.2511142126 |
+| @quick-start-soft/quick-task-refine | 1.4.2511142126 |
+| @relyt/claude-context-core | 0.1.1 |
+| @relyt/claude-context-mcp | 0.1.1 |
+| @seezo/sdr-mcp-server | 0.0.5 |
+| @seung-ju/next | 0.0.2 |
+| @seung-ju/openapi-generator | 0.0.4 |
+| @seung-ju/react-hooks | 0.0.2 |
+| @seung-ju/react-native-action-sheet | 0.2.1 |
+| @sme-ui/aoma-vevasound-metadata-lib | 0.1.3 |
+| @strapbuild/react-native-date-time-picker | 2.0.4 |
+| @strapbuild/react-native-perspective-image-cropper | 0.4.15 |
+| @strapbuild/react-native-perspective-image-cropper-2 | 0.4.7 |
+| @strapbuild/react-native-perspective-image-cropper-poojan31 | 0.4.6 |
+| @suraj_h/medium-common | 1.0.5 |
+| @thedelta/eslint-config | 1.0.2 |
+| @tiaanduplessis/json | 2.0.2, 2.0.3 |
+| @tiaanduplessis/react-progressbar | 1.0.1, 1.0.2 |
+| @trefox/sleekshop-js | 0.1.6 |
+| @trigo/atrix | 7.0.1 |
+| @trigo/atrix-acl | 4.0.2 |
+| @trigo/atrix-elasticsearch | 2.0.1 |
+| @trigo/atrix-mongoose | 1.0.2 |
+| @trigo/atrix-orientdb | 1.0.2 |
+| @trigo/atrix-postgres | 1.0.3 |
+| @trigo/atrix-pubsub | 4.0.3 |
+| @trigo/atrix-redis | 1.0.2 |
+| @trigo/atrix-soap | 1.0.2 |
+| @trigo/atrix-swagger | 3.0.1 |
+| @trigo/bool-expressions | 4.1.3 |
+| @trigo/eslint-config-trigo | 3.3.1 |
+| @trigo/fsm | 3.4.2 |
+| @trigo/hapi-auth-signedlink | 1.3.1 |
+| @trigo/jsdt | 0.2.1 |
+| @trigo/keycloak-api | 1.3.1 |
+| @trigo/node-soap | 0.5.4 |
+| @trigo/pathfinder-ui-css | 0.1.1 |
+| @trigo/trigo-hapijs | 5.0.1 |
+| @trpc-rate-limiter/cloudflare | 0.1.4 |
+| @trpc-rate-limiter/hono | 0.1.4 |
+| @varsityvibe/api-client | 1.3.36, 1.3.37 |
+| @varsityvibe/utils | 5.0.6 |
+| @varsityvibe/validation-schemas | 0.6.7, 0.6.8 |
+| @voiceflow/alexa-types | 2.15.61 |
+| @voiceflow/anthropic | 0.4.4, 0.4.5 |
+| @voiceflow/api-sdk | 3.28.59 |
+| @voiceflow/backend-utils | 5.0.1, 5.0.2 |
+| @voiceflow/base-types | 2.136.2, 2.136.3 |
+| @voiceflow/body-parser | 1.21.2, 1.21.3 |
+| @voiceflow/chat-types | 2.14.58, 2.14.59 |
+| @voiceflow/circleci-config-sdk-orb-import | 0.2.1, 0.2.2 |
+| @voiceflow/commitlint-config | 2.6.1 |
+| @voiceflow/common | 8.9.1, 8.9.2 |
+| @voiceflow/default-prompt-wrappers | 1.7.3, 1.7.4 |
+| @voiceflow/dependency-cruiser-config | 1.8.11, 1.8.12 |
+| @voiceflow/dtos-interact | 1.40.1, 1.40.2 |
+| @voiceflow/encryption | 0.3.2, 0.3.3 |
+| @voiceflow/eslint-config | 7.16.4, 7.16.5 |
+| @voiceflow/eslint-plugin | 1.6.1, 1.6.2 |
+| @voiceflow/exception | 1.10.1, 1.10.2 |
+| @voiceflow/fetch | 1.11.1, 1.11.2 |
+| @voiceflow/general-types | 3.2.22, 3.2.23 |
+| @voiceflow/git-branch-check | 1.4.3 |
+| @voiceflow/google-dfes-types | 2.17.12, 2.17.13 |
+| @voiceflow/google-types | 2.21.13 |
+| @voiceflow/husky-config | 1.3.1 |
+| @voiceflow/logger | 2.4.2, 2.4.3 |
+| @voiceflow/metrics | 1.5.1, 1.5.2 |
+| @voiceflow/natural-language-commander | 0.5.2, 0.5.3 |
+| @voiceflow/nestjs-common | 2.75.2, 2.75.3 |
+| @voiceflow/nestjs-mongodb | 1.3.1, 1.3.2 |
+| @voiceflow/nestjs-rate-limit | 1.3.2, 1.3.3 |
+| @voiceflow/nestjs-redis | 1.3.1, 1.3.2 |
+| @voiceflow/nestjs-timeout | 1.3.1 |
+| @voiceflow/npm-package-json-lint-config | 1.1.1 |
+| @voiceflow/openai | 3.2.2, 3.2.3 |
+| @voiceflow/pino | 6.11.3, 6.11.4 |
+| @voiceflow/pino-pretty | 4.4.1, 4.4.2 |
+| @voiceflow/prettier-config | 1.10.1 |
+| @voiceflow/react-chat | 1.65.4 |
+| @voiceflow/runtime | 1.29.1, 1.29.2 |
+| @voiceflow/runtime-client-js | 1.17.2, 1.17.3 |
+| @voiceflow/sdk-runtime | 1.43.1, 1.43.2 |
+| @voiceflow/secrets-provider | 1.9.2 |
+| @voiceflow/semantic-release-config | 1.4.1 |
+| @voiceflow/serverless-plugin-typescript | 2.1.7, 2.1.8 |
+| @voiceflow/slate-serializer | 1.7.3, 1.7.4 |
+| @voiceflow/stitches-react | 2.3.2, 2.3.3 |
+| @voiceflow/storybook-config | 1.2.2, 1.2.3 |
+| @voiceflow/stylelint-config | 1.1.1 |
+| @voiceflow/test-common | 2.1.1, 2.1.2 |
+| @voiceflow/tsconfig | 1.12.1 |
+| @voiceflow/tsconfig-paths | 1.1.4, 1.1.5 |
+| @voiceflow/utils-designer | 1.74.20 |
+| @voiceflow/verror | 1.1.4 |
+| @voiceflow/vite-config | 2.6.2, 2.6.3 |
+| @voiceflow/vitest-config | 1.10.2, 1.10.3 |
+| @voiceflow/voice-types | 2.10.58, 2.10.59 |
+| @voiceflow/voiceflow-types | 3.32.45, 3.32.46 |
+| @voiceflow/widget | 1.7.18, 1.7.19 |
+| @zapier/ai-actions | 0.1.18, 0.1.19, 0.1.20 |
+| @zapier/ai-actions-react | 0.1.12, 0.1.13, 0.1.14 |
+| @zapier/babel-preset-zapier | 6.4.1, 6.4.2, 6.4.3 |
+| @zapier/browserslist-config-zapier | 1.0.3, 1.0.4, 1.0.5 |
+| @zapier/eslint-plugin-zapier | 11.0.3, 11.0.4, 11.0.5 |
+| @zapier/mcp-integration | 3.0.1, 3.0.2, 3.0.3 |
+| @zapier/secret-scrubber | 1.1.3, 1.1.4, 1.1.5 |
+| @zapier/spectral-api-ruleset | 1.9.1, 1.9.2, 1.9.3 |
+| @zapier/stubtree | 0.1.2, 0.1.3, 0.1.4 |
+| @zapier/zapier-sdk | 0.15.5, 0.15.6, 0.15.7 |
+| ai-crowl-shield | 1.0.7 |
+| arc-cli-fc | 1.0.1 |
+| asyncapi-preview | 1.0.1, 1.0.2 |
+| atrix | 1.0.1 |
+| atrix-mongoose | 1.0.1 |
+| automation_model | 1.0.491 |
+| axios-builder | 1.2.1 |
+| axios-cancelable | 1.0.1, 1.0.2 |
+| axios-timed | 1.0.1, 1.0.2 |
+| barebones-css | 1.1.3, 1.1.4 |
+| benmostyn-frame-print | 1.0.1 |
+| bidirectional-adapter | 1.2.2, 1.2.3, 1.2.4 |
+| blinqio-executions-cli | 1.0.41 |
+| blob-to-base64 | 1.0.3 |
+| bool-expressions | 0.1.2 |
+| bun-plugin-httpfile | 0.1.1 |
+| bytecode-checker-cli | 1.0.10, 1.0.11, 1.0.8, 1.0.9 |
+| bytes-to-x | 1.0.1 |
+| calc-loan-interest | 1.0.4 |
+| capacitor-plugin-apptrackingios | 0.0.21 |
+| capacitor-plugin-purchase | 0.1.1 |
+| capacitor-plugin-scgssigninwithgoogle | 0.0.5 |
+| capacitor-purchase-history | 0.0.10 |
+| capacitor-voice-recorder-wav | 6.0.3 |
+| chrome-extension-downloads | 0.0.3, 0.0.4 |
+| claude-token-updater | 1.0.3 |
+| coinmarketcap-api | 3.1.2, 3.1.3 |
+| colors-regex | 2.0.1 |
+| command-irail | 0.5.4 |
+| compare-obj | 1.1.1, 1.1.2 |
+| composite-reducer | 1.0.2, 1.0.3, 1.0.4 |
+| count-it-down | 1.0.1, 1.0.2 |
+| cpu-instructions | 0.0.14 |
+| create-glee-app | 0.2.2, 0.2.3 |
+| create-hardhat3-app | 1.1.1, 1.1.2, 1.1.3, 1.1.4 |
+| create-mcp-use-app | 0.5.3, 0.5.4 |
+| crypto-addr-codec | 0.1.9 |
+| css-dedoupe | 0.1.2 |
+| dashboard-empty-state | 1.0.3 |
+| designstudiouiux | 1.0.1 |
+| devstart-cli | 1.0.6 |
+| dialogflow-es | 1.1.2, 1.1.3 |
+| discord-bot-server | 0.1.2 |
+| docusaurus-plugin-vanilla-extract | 1.0.3 |
+| dont-go | 1.1.2 |
+| dotnet-template | 0.0.3, 0.0.4 |
+| drop-events-on-property-plugin | 0.0.2 |
+| email-deliverability-tester | 1.1.1 |
+| enforce-branch-name | 1.1.3 |
+| esbuild-plugin-brotli | 0.2.1 |
+| esbuild-plugin-eta | 0.1.1 |
+| esbuild-plugin-httpfile | 0.4.1 |
+| eslint-config-nitpicky | 4.0.1 |
+| eslint-config-trigo | 22.0.2 |
+| eslint-config-zeallat-base | 1.0.4 |
+| ethereum-ens | 0.8.1 |
+| evm-checkcode-cli | 1.0.12, 1.0.13, 1.0.14, 1.0.15 |
+| exact-ticker | 0.3.5 |
+| expo-audio-session | 0.2.1 |
+| expressos | 1.1.3 |
+| fat-fingered | 1.0.1, 1.0.2 |
+| feature-flip | 1.0.1, 1.0.2 |
+| firestore-search-engine | 1.2.3 |
+| fittxt | 1.0.2, 1.0.3 |
+| flapstacks | 1.0.1, 1.0.2 |
+| flatten-unflatten | 1.0.1, 1.0.2 |
+| formik-error-focus | 2.0.1 |
+| formik-store | 1.0.1 |
+| fuzzy-finder | 1.0.5, 1.0.6 |
+| gate-evm-check-code2 | 2.0.3, 2.0.4, 2.0.5, 2.0.6 |
+| gate-evm-tools-test | 1.0.5, 1.0.6, 1.0.7, 1.0.8 |
+| gatsby-plugin-cname | 1.0.1, 1.0.2 |
+| generator-meteor-stock | 0.1.6 |
+| generator-ng-itobuz | 0.0.15 |
+| get-them-args | 1.3.3 |
+| github-action-for-generator | 2.1.27, 2.1.28 |
+| gitsafe | 1.0.5 |
+| go-template | 0.1.8, 0.1.9 |
+| gulp-inject-envs | 1.2.1, 1.2.2 |
+| haufe-axera-api-client | 0.0.2 |
+| hope-mapboxdraw | 0.1.1 |
+| hopedraw | 1.0.3 |
+| hover-design-prototype | 0.0.5 |
+| httpness | 1.0.2, 1.0.3 |
+| hyper-fullfacing | 1.0.3 |
+| hyperterm-hipster | 1.0.7 |
+| image-to-uri | 1.0.1, 1.0.2 |
+| invo | 0.2.2 |
+| iron-shield-miniapp | 0.0.2 |
+| ito-button | 8.0.3 |
+| itobuz-angular | 0.0.1 |
+| itobuz-angular-auth | 8.0.11 |
+| itobuz-angular-button | 8.0.11 |
+| jacob-zuma | 1.0.1, 1.0.2 |
+| jan-browser | 0.13.1 |
+| jquery-bindings | 1.1.2, 1.1.3 |
+| jsonsurge | 1.0.7 |
+| just-toasty | 1.7.1 |
+| kill-port | 2.0.2, 2.0.3 |
+| korea-administrative-area-geo-json-util | 1.0.7 |
+| kwami | 1.5.10, 1.5.9 |
+| lang-codes | 1.0.1, 1.0.2 |
+| license-o-matic | 1.2.1, 1.2.2 |
+| lint-staged-imagemin | 1.3.1, 1.3.2 |
+| lite-serper-mcp-server | 0.2.2 |
+| luno-api | 1.2.3 |
+| manual-billing-system-miniapp-api | 1.3.1 |
+| mcp-use | 1.4.2, 1.4.3 |
+| medusa-plugin-announcement | 0.0.3 |
+| medusa-plugin-logs | 0.0.17 |
+| medusa-plugin-momo | 0.0.68 |
+| medusa-plugin-product-reviews-kvy | 0.0.4 |
+| medusa-plugin-zalopay | 0.0.40 |
+| mod10-check-digit | 1.0.1 |
+| mon-package-react-typescript | 1.0.1 |
+| n8n-nodes-tmdb | 0.5.1 |
+| n8n-nodes-vercel-ai-sdk | 0.1.7 |
+| n8n-nodes-viral-app | 0.2.5 |
+| nanoreset | 7.0.1, 7.0.2 |
+| next-circular-dependency | 1.0.2, 1.0.3 |
+| next-simple-google-analytics | 1.1.1, 1.1.2 |
+| next-styled-nprogress | 1.0.4, 1.0.5 |
+| ngx-useful-swiper-prosenjit | 9.0.2 |
+| ngx-wooapi | 12.0.1 |
+| normal-store | 1.3.1, 1.3.2, 1.3.3 |
+| obj-to-css | 1.0.2, 1.0.3 |
+| okta-react-router-6 | 5.0.1 |
+| open2internet | 0.1.1 |
+| orbit-boxicons | 2.1.3 |
+| orbit-nebula-draw-tools | 1.0.10 |
+| orbit-nebula-editor | 1.0.2 |
+| orbit-soap | 0.43.13 |
+| orchestrix | 12.1.2 |
+| package-tester | 1.0.1 |
+| parcel-plugin-asset-copier | 1.1.2, 1.1.3 |
+| pdf-annotation | 0.0.2 |
+| piclite | 1.0.1 |
+| pico-uid | 1.0.3, 1.0.4 |
+| pkg-readme | 1.1.1 |
+| poper-react-sdk | 0.1.2 |
+| posthog-docusaurus | 2.0.6 |
+| posthog-js | 1.297.3 |
+| posthog-node | 4.18.1, 5.13.3 |
+| posthog-plugin-hello-world | 1.0.1 |
+| posthog-react-native | 4.11.1, 4.12.5 |
+| posthog-react-native-session-replay | 1.2.2 |
+| prime-one-table | 0.0.19 |
+| prompt-eng | 1.0.50 |
+| prompt-eng-server | 1.0.18 |
+| puny-req | 1.0.3 |
+| ra-auth-firebase | 1.0.3 |
+| ra-data-firebase | 1.0.7, 1.0.8 |
+| react-component-taggers | 0.1.9 |
+| react-element-prompt-inspector | 0.1.18 |
+| react-favic | 1.0.2 |
+| react-hook-form-persist | 3.0.1, 3.0.2 |
+| react-jam-icons | 1.0.1, 1.0.2 |
+| react-keycloak-context | 1.0.8, 1.0.9 |
+| react-library-setup | 0.0.6 |
+| react-linear-loader | 1.0.2 |
+| react-micromodal.js | 1.0.1, 1.0.2 |
+| react-native-datepicker-modal | 1.3.1, 1.3.2 |
+| react-native-email | 2.1.1, 2.1.2 |
+| react-native-fetch | 2.0.1, 2.0.2 |
+| react-native-get-pixel-dimensions | 1.0.1, 1.0.2 |
+| react-native-google-maps-directions | 2.1.2 |
+| react-native-jam-icons | 1.0.1, 1.0.2 |
+| react-native-log-level | 1.2.1, 1.2.2 |
+| react-native-modest-checkbox | 3.3.1 |
+| react-native-modest-storage | 2.1.1 |
+| react-native-phone-call | 1.2.1, 1.2.2 |
+| react-native-retriable-fetch | 2.0.1, 2.0.2 |
+| react-native-use-modal | 1.0.3 |
+| react-native-view-finder | 1.2.1, 1.2.2 |
+| react-native-websocket | 1.0.3, 1.0.4 |
+| react-native-worklet-functions | 3.3.3 |
+| react-qr-image | 1.1.1 |
+| redux-forge | 2.5.3 |
+| redux-router-kit | 1.2.2, 1.2.3, 1.2.4 |
+| rollup-plugin-httpfile | 0.2.1 |
+| sa-company-registration-number-regex | 1.0.1, 1.0.2 |
+| sa-id-gen | 1.0.4, 1.0.5 |
+| samesame | 1.0.3 |
+| scgs-capacitor-subscribe | 1.0.11 |
+| scgsffcreator | 1.0.5 |
+| selenium-session | 1.0.5 |
+| selenium-session-client | 1.0.4 |
+| set-nested-prop | 2.0.1, 2.0.2 |
+| shelf-jwt-sessions | 0.1.2 |
+| shell-exec | 1.1.3, 1.1.4 |
+| shinhan-limit-scrap | 1.0.3 |
+| skills-use | 0.1.1, 0.1.2 |
+| solomon-api-stories | 1.0.2 |
+| solomon-v3-stories | 1.15.6 |
+| solomon-v3-ui-wrapper | 1.6.1 |
+| sort-by-distance | 2.0.1 |
+| south-african-id-info | 1.0.2 |
+| stat-fns | 1.0.1 |
+| stoor | 2.3.2 |
+| super-commit | 1.0.1 |
+| svelte-autocomplete-select | 1.1.1 |
+| svelte-toasty | 1.1.2, 1.1.3 |
+| tanstack-shadcn-table | 1.1.5 |
+| tcsp | 2.0.2 |
+| tcsp-draw-test | 1.0.5 |
+| tcsp-test-vd | 2.4.4 |
+| template-lib | 1.1.3, 1.1.4 |
+| template-micro-service | 1.0.2, 1.0.3 |
+| tenacious-fetch | 2.3.2, 2.3.3 |
+| test-foundry-app | 1.0.1, 1.0.2, 1.0.3, 1.0.4 |
+| test-hardhat-app | 1.0.1, 1.0.2, 1.0.3, 1.0.4 |
+| test23112222-api | 1.0.1 |
+| tiaan | 1.0.2 |
+| token.js-fork | 0.7.32 |
+| trigo-react-app | 4.1.2 |
+| typefence | 1.2.2, 1.2.3 |
+| typeorm-orbit | 0.2.27 |
+| undefsafe-typed | 1.0.4 |
+| uplandui | 0.5.4 |
+| upload-to-play-store | 1.0.1, 1.0.2 |
+| url-encode-decode | 1.0.1, 1.0.2 |
+| use-unsaved-changes | 1.0.9 |
+| valid-south-african-id | 1.0.3 |
+| vf-oss-template | 1.0.1, 1.0.2, 1.0.3 |
+| vite-plugin-httpfile | 0.2.1 |
+| web-scraper-mcp | 1.1.4 |
+| web-types-htmx | 0.1.1 |
+| web-types-lit | 0.1.1 |
+| webpack-loader-httpfile | 0.2.1 |
+| wellness-expert-ng-gallery | 5.1.1 |
+| wenk | 1.0.10, 1.0.9 |
+| zapier-async-storage | 1.0.1, 1.0.2, 1.0.3 |
+| zapier-platform-cli | 18.0.2, 18.0.3, 18.0.4 |
+| zapier-platform-core | 18.0.2, 18.0.3, 18.0.4 |
+| zapier-platform-legacy-scripting-runner | 4.0.2, 4.0.3, 4.0.4 |
+| zapier-platform-schema | 18.0.2, 18.0.3, 18.0.4 |
+| zapier-scripts | 7.8.3, 7.8.4 |
+| zuper-cli | 1.0.1 |
+| zuper-sdk | 1.0.57 |
+| zuper-stream | 2.0.9 |
